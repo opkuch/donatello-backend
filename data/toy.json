@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "6DwI9",
+    "name": "Ferarri plastic car",
+    "price": 70,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": "TJRxL",
+    "name": "Talking Doll",
+    "price": 40,
+    "labels": [
+      "On wheels",
+      "Outdoor"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "name": "shmorkul",
+    "price": 222,
+    "labels": [
+      "On wheels",
+      "Box game"
+    ],
+    "createdAt": 1657624671796,
+    "inStock": true,
+    "_id": "6xb8z"
+  },
+  {
+    "_id": "k4qFw",
+    "name": "kdsgnjsnd",
+    "price": 232,
+    "inStock": false,
+    "createdAt": 1657635271507,
+    "labels": []
+  }
+]

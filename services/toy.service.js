@@ -11,6 +11,7 @@ function query(filterBy) {
   if (!toys) return
   const regex = new RegExp(filterBy.txt, 'i')
   let filteredToys = toys.filter((toy) => regex.test(toy.name))
+  // if (filterBy.status === false) filteredToys = filteredToys.filter(toy => !toy.inStock);
   if (filterBy.sortBy) {
     switch (filterBy.sortBy) {
       case 'Name':

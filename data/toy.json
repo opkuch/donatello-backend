@@ -1,43 +1,72 @@
 [
   {
     "_id": "6DwI9",
-    "name": "Ferarri plastic car",
+    "name": "Meeseeks toy",
     "price": 70,
     "labels": [
       "Doll",
       "Baby"
     ],
+    "imgUrl": "meeseeks.png",
     "createdAt": 1631031801011,
     "inStock": true
   },
   {
-    "_id": "TJRxL",
-    "name": "Talking Doll",
-    "price": 40,
+    "_id": "5AwS9",
+    "name": "Plumbus toy",
+    "price": 200,
     "labels": [
-      "On wheels",
-      "Outdoor"
+      "Doll",
+      "Baby"
     ],
+    "imgUrl": "plumbus.png",
     "createdAt": 1631031801011,
     "inStock": true
   },
   {
-    "name": "shmorkul",
-    "price": 222,
+    "_id": "6fgjs",
+    "name": "Teddy bear",
+    "price": 30,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "imgUrl": "teddy.png",
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "name": "asdas",
+    "price": 12,
+    "inStock": true,
+    "createdAt": 1657732202987,
     "labels": [
       "On wheels",
       "Box game"
     ],
-    "createdAt": 1657624671796,
-    "inStock": true,
-    "_id": "6xb8z"
+    "_id": "eGnlE"
   },
   {
-    "_id": "k4qFw",
     "name": "kdsgnjsnd",
-    "price": 232,
+    "price": 353,
     "inStock": false,
-    "createdAt": 1657635271507,
-    "labels": []
+    "createdAt": 1657732926790,
+    "labels": [
+      "Box game",
+      "Baby"
+    ],
+    "_id": "lZQ4V"
+  },
+  {
+    "name": "Ferarri plastic carsis",
+    "price": 43,
+    "inStock": true,
+    "createdAt": 1657732987840,
+    "labels": [
+      "On wheels",
+      "Box game",
+      "Art"
+    ],
+    "_id": "MWN5d"
   }
 ]

@@ -30,8 +30,8 @@ async function getToyById(req, res) {
 async function addToy(req, res) {
   try {
     const toy = req.body
-    const addedToy = await toyService.add(toy)
-    res.json(addedToy)
+    const addedToyId = await toyService.add(toy)
+    res.json(addedToyId)
   } catch (err) {
     logger.error('Failed to add toy', err)
     res.status(500).send({ err: 'Failed to add toy' })

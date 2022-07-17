@@ -667,3 +667,13 @@
 7/17/2022, 6:42:35 PM - INFO - Server is running on port: 3030
 7/17/2022, 6:48:27 PM - INFO - Server is running on port: 3030
 7/17/2022, 6:49:58 PM - INFO - Server is running on port: 3030
+7/17/2022, 6:57:33 PM - INFO - Server is running on port: 3030
+7/17/2022, 6:57:39 PM - DEBUG - Getting Toys
+7/17/2022, 6:57:58 PM - INFO - Server is running on port: 3030
+7/17/2022, 6:58:14 PM - DEBUG - Getting Toys
+7/17/2022, 6:58:19 PM - DEBUG - auth.service - login with username: admin
+7/17/2022, 6:58:19 PM - INFO - User login:  | {"_id":"62d14050ce8b8212aa4a12cd","fullname":"Chanel Love","username":"admin","isAdmin":true}
+7/17/2022, 6:58:19 PM - DEBUG - Getting Toys
+7/17/2022, 6:58:41 PM - DEBUG - Getting Toys
+7/17/2022, 6:58:42 PM - DEBUG - Getting Toys
+7/17/2022, 7:21:14 PM - INFO - Server is running on port: 3030

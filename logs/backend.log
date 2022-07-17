@@ -643,3 +643,27 @@
 7/17/2022, 3:05:42 PM - INFO - User login:  | {"_id":"62d3fb0c0fbf2d4511ba48e5","username":"na","fullname":"nana","score":0,"isAdmin":false}
 7/17/2022, 3:05:42 PM - DEBUG - Getting Toys
 7/17/2022, 3:05:47 PM - DEBUG - Getting Toys
+7/17/2022, 5:11:10 PM - INFO - Server is running on port: 3030
+7/17/2022, 5:11:11 PM - DEBUG - Getting Toys
+7/17/2022, 5:11:15 PM - DEBUG - auth.service - login with username: admin
+7/17/2022, 5:11:15 PM - ERROR - Failed to Login Invalid username or password
+7/17/2022, 5:11:15 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:12 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:16 PM - DEBUG - auth.service - login with username: admin
+7/17/2022, 5:12:16 PM - ERROR - Failed to Login Invalid username or password
+7/17/2022, 5:12:16 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:20 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:22 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:25 PM - DEBUG - auth.service - login with username: admin
+7/17/2022, 5:12:25 PM - ERROR - Failed to Login Invalid username or password
+7/17/2022, 5:12:26 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:38 PM - DEBUG - auth.service - login with username: na
+7/17/2022, 5:12:38 PM - INFO - User login:  | {"_id":"62d3fb0c0fbf2d4511ba48e5","username":"na","fullname":"nana","score":0,"isAdmin":false}
+7/17/2022, 5:12:38 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:54 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:57 PM - DEBUG - Getting Toys
+7/17/2022, 5:12:58 PM - DEBUG - Getting Toys
+7/17/2022, 6:28:37 PM - DEBUG - Getting Toys
+7/17/2022, 6:42:35 PM - INFO - Server is running on port: 3030
+7/17/2022, 6:48:27 PM - INFO - Server is running on port: 3030
+7/17/2022, 6:49:58 PM - INFO - Server is running on port: 3030

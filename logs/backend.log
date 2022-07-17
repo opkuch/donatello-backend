@@ -677,3 +677,20 @@
 7/17/2022, 6:58:41 PM - DEBUG - Getting Toys
 7/17/2022, 6:58:42 PM - DEBUG - Getting Toys
 7/17/2022, 7:21:14 PM - INFO - Server is running on port: 3030
+7/17/2022, 8:16:53 PM - INFO - Server is running on port: 3030
+7/17/2022, 8:16:53 PM - DEBUG - Getting Toys
+7/17/2022, 8:16:57 PM - DEBUG - Getting Toys
+7/17/2022, 8:17:04 PM - DEBUG - auth.service - login with username: yaki
+7/17/2022, 8:17:04 PM - ERROR - Failed to Login Error: Invalid username or password
+7/17/2022, 8:17:11 PM - DEBUG - Getting Toys
+7/17/2022, 8:17:14 PM - DEBUG - auth.service - login with username: admin
+7/17/2022, 8:17:15 PM - INFO - User login:  | {"_id":"62d14050ce8b8212aa4a12cd","fullname":"Chanel Love","username":"admin","isAdmin":true}
+7/17/2022, 8:17:30 PM - DEBUG - auth.service - signup with username: yak, fullname: yaki
+7/17/2022, 8:17:30 PM - DEBUG - auth.route - new account created: {"username":"yak","password":"$2b$10$6oqQqGrGjpZ.AY7ZAoolluWkxNxOxHrtzneUavhWfnf8z9lOnf4Z2","fullname":"yaki","score":0,"isAdmin":false,"_id":"62d4442a965c8719855accc1"}
+7/17/2022, 8:17:30 PM - DEBUG - auth.service - login with username: yak
+7/17/2022, 8:17:30 PM - INFO - User login:  | {"_id":"62d4442a965c8719855accc1","username":"yak","fullname":"yaki","score":0,"isAdmin":false}
+7/17/2022, 8:17:35 PM - DEBUG - auth.service - login with username: yak
+7/17/2022, 8:17:35 PM - INFO - User login:  | {"_id":"62d4442a965c8719855accc1","username":"yak","fullname":"yaki","score":0,"isAdmin":false}
+7/17/2022, 8:19:01 PM - DEBUG - auth.service - login with username: yaki
+7/17/2022, 8:19:01 PM - ERROR - Failed to Login Error: Invalid username or password
+7/17/2022, 8:19:36 PM - INFO - Server is running on port: 3030

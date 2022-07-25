@@ -1,0 +1,12 @@
+{
+    "_id": "u101",
+    "fullname": "Guest",
+    "username": "guest",
+    "password": "guest",
+    "imgUrl": "https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png",
+    "mentions": [{
+        "id": "m101",
+        "boardId": "62dd6e7b444331529fbf9dfb",
+        "taskId": "L97sv"
+    }]
+}

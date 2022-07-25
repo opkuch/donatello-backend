@@ -17,9 +17,9 @@ async function query(filterBy = {}) {
     try {
         const collection = await dbService.getCollection('user')
         var users = await collection.find(criteria).toArray()
+        // console.log(users)
         users = users.map(user => {
             delete user.password
-            user.isHappy = true
             user.createdAt = ObjectId(user._id).getTimestamp()
             // Returning fake fresh data
             // user.createdAt = Date.now() - (1000 * 60 * 60 * 24 * 3) // 3 days ago
@@ -89,8 +89,7 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            score: user.score || 0,
-            isAdmin: false
+            imgUrl: 'https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png'
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

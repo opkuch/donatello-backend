@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 7/16/2022, 4:33:17 PM - INFO - Server is running on port: 3030
 7/16/2022, 4:33:18 PM - DEBUG - Getting Toys
 7/16/2022, 4:33:27 PM - DEBUG - auth.service - login with username: AHatton
@@ -2893,3 +2894,5 @@
 >>>>>>> 513a5ac3d7a729c16e5036f8c765cc6bb36ff558
 7/25/2022, 8:23:07 PM - INFO - Server is running on port: 3030
 7/25/2022, 8:25:12 PM - INFO - Server is running on port: 3030
+=======
+>>>>>>> 817344c1aca1fccd43db971eb3fc41979fc8120d

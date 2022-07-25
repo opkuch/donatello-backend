@@ -71,7 +71,6 @@ async function update(user) {
             // _id: ObjectId(user._id),
             username: user.username,
             fullname: user.fullname,
-            score: user.score
         }
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ '_id': userToSave._id }, { $set: userToSave })
@@ -89,7 +88,7 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            imgUrl: 'https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png'
+            imgUrl: user.imgUrl? user.imgUrl : 'https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png'
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

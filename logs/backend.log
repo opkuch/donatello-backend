@@ -2896,3 +2896,7 @@
 7/25/2022, 8:25:12 PM - INFO - Server is running on port: 3030
 =======
 >>>>>>> 817344c1aca1fccd43db971eb3fc41979fc8120d
+7/25/2022, 9:01:32 PM - INFO - Server is running on port: 3030
+7/25/2022, 9:02:41 PM - INFO - Server is running on port: 3030
+7/25/2022, 9:03:27 PM - ERROR - while finding board undefined | {}
+7/25/2022, 9:03:27 PM - ERROR - Failed to get board | {}

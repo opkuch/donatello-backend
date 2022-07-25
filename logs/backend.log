@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 7/16/2022, 4:33:17 PM - INFO - Server is running on port: 3030
 7/16/2022, 4:33:18 PM - DEBUG - Getting Toys
 7/16/2022, 4:33:27 PM - DEBUG - auth.service - login with username: AHatton
@@ -2888,3 +2889,5 @@
 7/25/2022, 8:09:39 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
 7/25/2022, 8:10:27 PM - DEBUG - Getting Boards
 7/25/2022, 8:10:39 PM - DEBUG - Getting Boards
+=======
+>>>>>>> 513a5ac3d7a729c16e5036f8c765cc6bb36ff558

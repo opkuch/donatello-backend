@@ -1,0 +1,99 @@
+25.7.2022, 20:24:24 - INFO - Server is running on port: 3030
+25.7.2022, 20:34:16 - INFO - Server is running on port: 3030
+25.7.2022, 21:06:54 - INFO - New connected socket [id: z9ib4S-adBK0LQYeAAAB]
+25.7.2022, 21:06:55 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: z9ib4S-adBK0LQYeAAAB]
+25.7.2022, 21:07:15 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:07:16 - INFO - New connected socket [id: 9IN98amnKXuLZp9lAAAD]
+25.7.2022, 21:07:16 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 9IN98amnKXuLZp9lAAAD]
+25.7.2022, 21:09:41 - INFO - Server is running on port: 3030
+25.7.2022, 21:09:42 - INFO - New connected socket [id: BjGnfXBzp5lOyXWNAAAB]
+25.7.2022, 21:10:42 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:10:42 - INFO - New connected socket [id: Z8b7HefZS6w4jyaqAAAD]
+25.7.2022, 21:10:44 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Z8b7HefZS6w4jyaqAAAD]
+25.7.2022, 21:25:39 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:25:41 - INFO - New connected socket [id: 4QHdzGgjtrMlNFCDAAAF]
+25.7.2022, 21:25:42 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 4QHdzGgjtrMlNFCDAAAF]
+25.7.2022, 21:35:48 - INFO - Server is running on port: 3030
+25.7.2022, 21:35:49 - INFO - New connected socket [id: y4gUv8-Nag7nQoiVAAAB]
+25.7.2022, 21:41:47 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:41:47 - INFO - New connected socket [id: cUI_C4E00dxNgVYoAAAD]
+25.7.2022, 21:41:49 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: cUI_C4E00dxNgVYoAAAD]
+25.7.2022, 21:46:56 - INFO - Server is running on port: 3030
+25.7.2022, 21:46:58 - INFO - New connected socket [id: HOGhBwxVnl-olw4UAAAB]
+25.7.2022, 21:51:32 - INFO - New connected socket [id: gbjNU1ndWqYAkO3OAAAD]
+25.7.2022, 21:51:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: gbjNU1ndWqYAkO3OAAAD]
+25.7.2022, 21:51:44 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:51:46 - INFO - New connected socket [id: Qswn20hVMWrgU5ZOAAAF]
+25.7.2022, 21:51:46 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Qswn20hVMWrgU5ZOAAAF]
+25.7.2022, 21:52:42 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:52:42 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:52:42 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:52:53 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:52:54 - INFO - New connected socket [id: gDDwzRgoLb3fKy6tAAAH]
+25.7.2022, 21:52:55 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: gDDwzRgoLb3fKy6tAAAH]
+25.7.2022, 21:54:26 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:26 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:26 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:27 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:27 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:27 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:29 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:29 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:31 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:31 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:31 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:32 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:32 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:32 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:35 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:35 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:35 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:36 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:36 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:36 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:38 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:38 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:43 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:43 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:43 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:52 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:52 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:52 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:55:03 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:44:20 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:44:20 - INFO - New connected socket [id: VWEvBrTMttdNA9afAAAJ]
+26.7.2022, 9:44:22 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: VWEvBrTMttdNA9afAAAJ]
+26.7.2022, 9:44:33 - INFO - A task from socket [id: VWEvBrTMttdNA9afAAAJ], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:44:33 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:44:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:45:24 - INFO - A task from socket [id: VWEvBrTMttdNA9afAAAJ], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:45:24 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:45:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:45:29 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:45:31 - INFO - New connected socket [id: Z2i2KqgxZ9UBgHw_AAAL]
+26.7.2022, 9:45:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Z2i2KqgxZ9UBgHw_AAAL]
+26.7.2022, 9:46:02 - INFO - A task from socket [id: Z2i2KqgxZ9UBgHw_AAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:46:02 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:46:02 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:47:09 - INFO - A task from socket [id: Z2i2KqgxZ9UBgHw_AAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:47:09 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:47:09 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:47:16 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:47:17 - INFO - New connected socket [id: qps1ZP49BUQmnw56AAAN]
+26.7.2022, 9:47:17 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: qps1ZP49BUQmnw56AAAN]
+26.7.2022, 9:47:30 - INFO - A task from socket [id: qps1ZP49BUQmnw56AAAN], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:47:30 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:47:30 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:48:39 - INFO - A task from socket [id: qps1ZP49BUQmnw56AAAN], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:48:39 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:48:39 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:49:57 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:50:00 - INFO - New connected socket [id: wGSsR897aKxaSBMfAAAP]
+26.7.2022, 9:50:00 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: wGSsR897aKxaSBMfAAAP]
+26.7.2022, 9:50:05 - INFO - A task from socket [id: wGSsR897aKxaSBMfAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:50:05 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:50:05 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:50:30 - INFO - Server is running on port: 3030
+26.7.2022, 9:50:30 - INFO - New connected socket [id: xGHYFAVogu-2n-VSAAAB]

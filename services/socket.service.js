@@ -27,18 +27,19 @@ function setupSocketAPI(http) {
             logger.info(`A task from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
             broadcast({
                 type: 'task-updated',
-                data: task,
-                room: socket.myTopic, userId: socket.userId
+                data: { task, memberId: socket.userId },
+                room: socket.myTopic,
+                userId: socket.userId
             })
         })
-        socket.on('chat-send-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            msg.topic = socket.myTopic
-            msgs[socket.myTopic].push(msg)
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+        socket.on('update-group', group => {
+            logger.info(`A group from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
+            broadcast({
+                type: 'group-updated',
+                data: { group, memberId: socket.userId },
+                room: socket.myTopic,
+                userId: socket.userId
+            })
         })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)

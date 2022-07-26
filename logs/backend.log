@@ -1,0 +1,132 @@
+25/07/2022, 13:15:51 - INFO - Server is running on port: 3030
+25/07/2022, 13:15:58 - DEBUG - Getting Boards
+25/07/2022, 13:18:10 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:18:11 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:19:07 - DEBUG - Getting Boards
+25/07/2022, 13:21:25 - DEBUG - Getting Boards
+25/07/2022, 13:24:58 - DEBUG - Getting Boards
+25/07/2022, 13:25:07 - DEBUG - Getting Boards
+25/07/2022, 13:36:55 - DEBUG - Getting Boards
+25/07/2022, 13:38:53 - DEBUG - Getting Boards
+25/07/2022, 13:39:22 - DEBUG - Getting Boards
+25/07/2022, 13:39:26 - DEBUG - Getting Boards
+25/07/2022, 13:39:40 - DEBUG - Getting Boards
+25/07/2022, 13:40:31 - DEBUG - Getting Boards
+25/07/2022, 13:40:41 - DEBUG - Getting Boards
+25/07/2022, 13:41:15 - DEBUG - Getting Boards
+25/07/2022, 13:45:47 - DEBUG - Getting Boards
+25/07/2022, 13:46:17 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:46:18 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:46:55 - DEBUG - Getting Boards
+25/07/2022, 13:47:18 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:47:19 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:47:47 - DEBUG - Getting Boards
+25/07/2022, 13:47:54 - DEBUG - Getting Boards
+25/07/2022, 13:48:00 - DEBUG - Getting Boards
+25/07/2022, 13:50:31 - DEBUG - Getting Boards
+25/07/2022, 13:50:35 - DEBUG - Getting Boards
+25/07/2022, 13:53:22 - DEBUG - Getting Boards
+25/07/2022, 13:53:56 - DEBUG - Getting Boards
+25/07/2022, 13:54:08 - DEBUG - Getting Boards
+25/07/2022, 14:07:47 - DEBUG - Getting Boards
+25/07/2022, 14:12:21 - DEBUG - Getting Boards
+25/07/2022, 14:15:19 - DEBUG - Getting Boards
+25/07/2022, 14:22:33 - DEBUG - Getting Boards
+25/07/2022, 14:22:47 - DEBUG - Getting Boards
+25/07/2022, 14:22:55 - DEBUG - Getting Boards
+25/07/2022, 14:27:12 - DEBUG - Getting Boards
+25/07/2022, 14:27:55 - DEBUG - Getting Boards
+25/07/2022, 14:49:24 - DEBUG - Getting Boards
+25/07/2022, 14:59:20 - DEBUG - Getting Boards
+25/07/2022, 15:01:24 - DEBUG - Getting Boards
+25/07/2022, 15:01:58 - DEBUG - Getting Boards
+25/07/2022, 15:02:04 - DEBUG - Getting Boards
+25/07/2022, 15:02:16 - DEBUG - Getting Boards
+25/07/2022, 15:02:24 - DEBUG - Getting Boards
+25/07/2022, 15:02:44 - DEBUG - Getting Boards
+25/07/2022, 15:03:54 - DEBUG - Getting Boards
+25/07/2022, 15:04:02 - DEBUG - Getting Boards
+25/07/2022, 15:04:20 - DEBUG - Getting Boards
+25/07/2022, 15:04:51 - DEBUG - Getting Boards
+25/07/2022, 15:05:07 - DEBUG - Getting Boards
+25/07/2022, 15:07:25 - DEBUG - Getting Boards
+25/07/2022, 15:11:02 - DEBUG - Getting Boards
+25/07/2022, 15:12:41 - DEBUG - Getting Boards
+25/07/2022, 15:14:37 - DEBUG - Getting Boards
+25/07/2022, 15:15:43 - DEBUG - Getting Boards
+25/07/2022, 15:20:52 - DEBUG - Getting Boards
+25/07/2022, 15:22:10 - DEBUG - Getting Boards
+25/07/2022, 15:22:55 - DEBUG - Getting Boards
+25/07/2022, 15:25:02 - DEBUG - Getting Boards
+25/07/2022, 15:26:09 - DEBUG - Getting Boards
+25/07/2022, 15:33:07 - DEBUG - Getting Boards
+25/07/2022, 15:33:07 - DEBUG - Getting Boards
+25/07/2022, 15:41:39 - DEBUG - Getting Boards
+25/07/2022, 15:43:23 - DEBUG - Getting Boards
+25/07/2022, 15:44:04 - DEBUG - Getting Boards
+25/07/2022, 15:56:09 - DEBUG - Getting Boards
+25/07/2022, 16:06:04 - DEBUG - Getting Boards
+25/07/2022, 16:12:09 - DEBUG - Getting Boards
+25/07/2022, 16:36:04 - DEBUG - Getting Boards
+25/07/2022, 16:37:39 - DEBUG - Getting Boards
+25/07/2022, 16:37:51 - DEBUG - Getting Boards
+25/07/2022, 17:00:13 - DEBUG - Getting Boards
+25/07/2022, 17:00:15 - DEBUG - Getting Boards
+25/07/2022, 17:12:18 - DEBUG - Getting Boards
+25/07/2022, 17:49:00 - DEBUG - Getting Boards
+25/07/2022, 17:49:09 - DEBUG - auth.service - login with username: guest
+25/07/2022, 17:49:09 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 17:49:38 - DEBUG - Getting Boards
+25/07/2022, 17:49:56 - DEBUG - Getting Boards
+25/07/2022, 19:12:43 - DEBUG - Getting Boards
+25/07/2022, 19:12:43 - DEBUG - Getting Boards
+25/07/2022, 19:29:34 - DEBUG - Getting Boards
+25/07/2022, 19:33:33 - DEBUG - Getting Boards
+25/07/2022, 19:45:59 - DEBUG - Getting Boards
+25/07/2022, 19:46:00 - DEBUG - Getting Boards
+25/07/2022, 19:54:33 - DEBUG - Getting Boards
+25/07/2022, 19:54:34 - DEBUG - Getting Boards
+25/07/2022, 19:58:19 - DEBUG - Getting Boards
+25/07/2022, 19:58:19 - DEBUG - Getting Boards
+25/07/2022, 20:01:55 - DEBUG - Getting Boards
+25/07/2022, 20:01:56 - DEBUG - Getting Boards
+25/07/2022, 20:20:43 - DEBUG - Getting Boards
+25/07/2022, 20:20:49 - DEBUG - Getting Boards
+25/07/2022, 20:22:18 - DEBUG - Getting Boards
+25/07/2022, 20:22:53 - DEBUG - Getting Boards
+25/07/2022, 20:56:12 - DEBUG - Getting Boards
+25/07/2022, 21:16:13 - DEBUG - Getting Boards
+25/07/2022, 21:24:35 - DEBUG - Getting Boards
+25/07/2022, 21:51:40 - DEBUG - Getting Boards
+25/07/2022, 22:03:37 - DEBUG - Getting Boards
+25/07/2022, 22:09:05 - DEBUG - Getting Boards
+25/07/2022, 22:09:13 - DEBUG - Getting Boards
+25/07/2022, 22:09:22 - DEBUG - Getting Boards
+25/07/2022, 22:09:30 - DEBUG - Getting Boards
+25/07/2022, 22:11:12 - DEBUG - Getting Boards
+25/07/2022, 22:11:33 - DEBUG - Getting Boards
+25/07/2022, 22:14:53 - DEBUG - Getting Boards
+25/07/2022, 22:15:50 - DEBUG - Getting Boards
+25/07/2022, 22:16:31 - DEBUG - Getting Boards
+25/07/2022, 22:17:33 - DEBUG - Getting Boards
+25/07/2022, 22:18:07 - DEBUG - Getting Boards
+25/07/2022, 22:18:30 - DEBUG - Getting Boards
+25/07/2022, 22:18:47 - DEBUG - Getting Boards
+25/07/2022, 22:19:31 - DEBUG - Getting Boards
+25/07/2022, 22:19:37 - DEBUG - Getting Boards
+25/07/2022, 22:21:25 - DEBUG - Getting Boards
+25/07/2022, 22:22:38 - INFO - Server is running on port: 3030
+25/07/2022, 22:23:08 - DEBUG - Getting Boards
+25/07/2022, 22:25:54 - DEBUG - Getting Boards
+25/07/2022, 22:25:59 - DEBUG - Getting Boards
+25/07/2022, 22:26:27 - DEBUG - Getting Boards
+25/07/2022, 22:27:01 - DEBUG - Getting Boards
+25/07/2022, 22:30:54 - DEBUG - Getting Boards
+26/07/2022, 8:14:49 - INFO - Server is running on port: 3030
+26/07/2022, 8:15:23 - DEBUG - Getting Boards
+26/07/2022, 8:16:33 - DEBUG - auth.service - login with username: guest
+26/07/2022, 8:16:33 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+26/07/2022, 8:28:51 - INFO - Server is running on port: 3030
+26/07/2022, 8:28:57 - DEBUG - Getting Boards
+26/07/2022, 8:29:20 - DEBUG - Getting Boards
+26/07/2022, 8:31:21 - DEBUG - Getting Boards

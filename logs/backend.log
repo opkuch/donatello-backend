@@ -3035,3 +3035,6 @@
 7/25/2022, 9:03:27 PM - ERROR - while finding board undefined | {}
 7/25/2022, 9:03:27 PM - ERROR - Failed to get board | {}
 >>>>>>> ec645312c905921a1cfbfa27e7bb0163d6c74e5a
+26/07/2022, 8:59:38 - INFO - Server is running on port: 3030
+26/07/2022, 9:00:44 - DEBUG - auth.service - login with username: guest
+26/07/2022, 9:00:46 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}

@@ -1,4 +1,239 @@
 <<<<<<< HEAD
+25.7.2022, 20:24:24 - INFO - Server is running on port: 3030
+25.7.2022, 20:34:16 - INFO - Server is running on port: 3030
+25.7.2022, 21:06:54 - INFO - New connected socket [id: z9ib4S-adBK0LQYeAAAB]
+25.7.2022, 21:06:55 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: z9ib4S-adBK0LQYeAAAB]
+25.7.2022, 21:07:15 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:07:16 - INFO - New connected socket [id: 9IN98amnKXuLZp9lAAAD]
+25.7.2022, 21:07:16 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 9IN98amnKXuLZp9lAAAD]
+25.7.2022, 21:09:41 - INFO - Server is running on port: 3030
+25.7.2022, 21:09:42 - INFO - New connected socket [id: BjGnfXBzp5lOyXWNAAAB]
+25.7.2022, 21:10:42 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:10:42 - INFO - New connected socket [id: Z8b7HefZS6w4jyaqAAAD]
+25.7.2022, 21:10:44 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Z8b7HefZS6w4jyaqAAAD]
+25.7.2022, 21:25:39 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:25:41 - INFO - New connected socket [id: 4QHdzGgjtrMlNFCDAAAF]
+25.7.2022, 21:25:42 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 4QHdzGgjtrMlNFCDAAAF]
+25.7.2022, 21:35:48 - INFO - Server is running on port: 3030
+25.7.2022, 21:35:49 - INFO - New connected socket [id: y4gUv8-Nag7nQoiVAAAB]
+25.7.2022, 21:41:47 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:41:47 - INFO - New connected socket [id: cUI_C4E00dxNgVYoAAAD]
+25.7.2022, 21:41:49 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: cUI_C4E00dxNgVYoAAAD]
+25.7.2022, 21:46:56 - INFO - Server is running on port: 3030
+25.7.2022, 21:46:58 - INFO - New connected socket [id: HOGhBwxVnl-olw4UAAAB]
+25.7.2022, 21:51:32 - INFO - New connected socket [id: gbjNU1ndWqYAkO3OAAAD]
+25.7.2022, 21:51:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: gbjNU1ndWqYAkO3OAAAD]
+25.7.2022, 21:51:44 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:51:46 - INFO - New connected socket [id: Qswn20hVMWrgU5ZOAAAF]
+25.7.2022, 21:51:46 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Qswn20hVMWrgU5ZOAAAF]
+25.7.2022, 21:52:42 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:52:42 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:52:42 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:52:53 - INFO - Socket disconnected [id: undefined]
+25.7.2022, 21:52:54 - INFO - New connected socket [id: gDDwzRgoLb3fKy6tAAAH]
+25.7.2022, 21:52:55 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: gDDwzRgoLb3fKy6tAAAH]
+25.7.2022, 21:54:26 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:26 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:26 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:27 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:27 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:27 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:29 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:29 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:31 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:31 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:31 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:32 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:32 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:32 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:35 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:35 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:35 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:36 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:36 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:36 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:38 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:38 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:43 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:43 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:43 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:54:52 - INFO - A task from socket [id: Qswn20hVMWrgU5ZOAAAF], emitting to topic 62dd6e7b444331529fbf9dfb
+25.7.2022, 21:54:52 - INFO - Broadcasting event: task-updated
+25.7.2022, 21:54:52 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+25.7.2022, 21:55:03 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:44:20 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:44:20 - INFO - New connected socket [id: VWEvBrTMttdNA9afAAAJ]
+26.7.2022, 9:44:22 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: VWEvBrTMttdNA9afAAAJ]
+26.7.2022, 9:44:33 - INFO - A task from socket [id: VWEvBrTMttdNA9afAAAJ], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:44:33 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:44:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:45:24 - INFO - A task from socket [id: VWEvBrTMttdNA9afAAAJ], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:45:24 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:45:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:45:29 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:45:31 - INFO - New connected socket [id: Z2i2KqgxZ9UBgHw_AAAL]
+26.7.2022, 9:45:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Z2i2KqgxZ9UBgHw_AAAL]
+26.7.2022, 9:46:02 - INFO - A task from socket [id: Z2i2KqgxZ9UBgHw_AAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:46:02 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:46:02 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:47:09 - INFO - A task from socket [id: Z2i2KqgxZ9UBgHw_AAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:47:09 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:47:09 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:47:16 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:47:17 - INFO - New connected socket [id: qps1ZP49BUQmnw56AAAN]
+26.7.2022, 9:47:17 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: qps1ZP49BUQmnw56AAAN]
+26.7.2022, 9:47:30 - INFO - A task from socket [id: qps1ZP49BUQmnw56AAAN], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:47:30 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:47:30 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:48:39 - INFO - A task from socket [id: qps1ZP49BUQmnw56AAAN], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:48:39 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:48:39 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:49:57 - INFO - Socket disconnected [id: undefined]
+26.7.2022, 9:50:00 - INFO - New connected socket [id: wGSsR897aKxaSBMfAAAP]
+26.7.2022, 9:50:00 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: wGSsR897aKxaSBMfAAAP]
+26.7.2022, 9:50:05 - INFO - A task from socket [id: wGSsR897aKxaSBMfAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+26.7.2022, 9:50:05 - INFO - Broadcasting event: task-updated
+26.7.2022, 9:50:05 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+26.7.2022, 9:50:30 - INFO - Server is running on port: 3030
+26.7.2022, 9:50:30 - INFO - New connected socket [id: xGHYFAVogu-2n-VSAAAB]
+=======
+<<<<<<< HEAD
+25/07/2022, 13:15:51 - INFO - Server is running on port: 3030
+25/07/2022, 13:15:58 - DEBUG - Getting Boards
+25/07/2022, 13:18:10 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:18:11 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:19:07 - DEBUG - Getting Boards
+25/07/2022, 13:21:25 - DEBUG - Getting Boards
+25/07/2022, 13:24:58 - DEBUG - Getting Boards
+25/07/2022, 13:25:07 - DEBUG - Getting Boards
+25/07/2022, 13:36:55 - DEBUG - Getting Boards
+25/07/2022, 13:38:53 - DEBUG - Getting Boards
+25/07/2022, 13:39:22 - DEBUG - Getting Boards
+25/07/2022, 13:39:26 - DEBUG - Getting Boards
+25/07/2022, 13:39:40 - DEBUG - Getting Boards
+25/07/2022, 13:40:31 - DEBUG - Getting Boards
+25/07/2022, 13:40:41 - DEBUG - Getting Boards
+25/07/2022, 13:41:15 - DEBUG - Getting Boards
+25/07/2022, 13:45:47 - DEBUG - Getting Boards
+25/07/2022, 13:46:17 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:46:18 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:46:55 - DEBUG - Getting Boards
+25/07/2022, 13:47:18 - DEBUG - auth.service - login with username: guest
+25/07/2022, 13:47:19 - INFO - User login:  | {"_id":"62de4d3609b63fc45f8e3541","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 13:47:47 - DEBUG - Getting Boards
+25/07/2022, 13:47:54 - DEBUG - Getting Boards
+25/07/2022, 13:48:00 - DEBUG - Getting Boards
+25/07/2022, 13:50:31 - DEBUG - Getting Boards
+25/07/2022, 13:50:35 - DEBUG - Getting Boards
+25/07/2022, 13:53:22 - DEBUG - Getting Boards
+25/07/2022, 13:53:56 - DEBUG - Getting Boards
+25/07/2022, 13:54:08 - DEBUG - Getting Boards
+25/07/2022, 14:07:47 - DEBUG - Getting Boards
+25/07/2022, 14:12:21 - DEBUG - Getting Boards
+25/07/2022, 14:15:19 - DEBUG - Getting Boards
+25/07/2022, 14:22:33 - DEBUG - Getting Boards
+25/07/2022, 14:22:47 - DEBUG - Getting Boards
+25/07/2022, 14:22:55 - DEBUG - Getting Boards
+25/07/2022, 14:27:12 - DEBUG - Getting Boards
+25/07/2022, 14:27:55 - DEBUG - Getting Boards
+25/07/2022, 14:49:24 - DEBUG - Getting Boards
+25/07/2022, 14:59:20 - DEBUG - Getting Boards
+25/07/2022, 15:01:24 - DEBUG - Getting Boards
+25/07/2022, 15:01:58 - DEBUG - Getting Boards
+25/07/2022, 15:02:04 - DEBUG - Getting Boards
+25/07/2022, 15:02:16 - DEBUG - Getting Boards
+25/07/2022, 15:02:24 - DEBUG - Getting Boards
+25/07/2022, 15:02:44 - DEBUG - Getting Boards
+25/07/2022, 15:03:54 - DEBUG - Getting Boards
+25/07/2022, 15:04:02 - DEBUG - Getting Boards
+25/07/2022, 15:04:20 - DEBUG - Getting Boards
+25/07/2022, 15:04:51 - DEBUG - Getting Boards
+25/07/2022, 15:05:07 - DEBUG - Getting Boards
+25/07/2022, 15:07:25 - DEBUG - Getting Boards
+25/07/2022, 15:11:02 - DEBUG - Getting Boards
+25/07/2022, 15:12:41 - DEBUG - Getting Boards
+25/07/2022, 15:14:37 - DEBUG - Getting Boards
+25/07/2022, 15:15:43 - DEBUG - Getting Boards
+25/07/2022, 15:20:52 - DEBUG - Getting Boards
+25/07/2022, 15:22:10 - DEBUG - Getting Boards
+25/07/2022, 15:22:55 - DEBUG - Getting Boards
+25/07/2022, 15:25:02 - DEBUG - Getting Boards
+25/07/2022, 15:26:09 - DEBUG - Getting Boards
+25/07/2022, 15:33:07 - DEBUG - Getting Boards
+25/07/2022, 15:33:07 - DEBUG - Getting Boards
+25/07/2022, 15:41:39 - DEBUG - Getting Boards
+25/07/2022, 15:43:23 - DEBUG - Getting Boards
+25/07/2022, 15:44:04 - DEBUG - Getting Boards
+25/07/2022, 15:56:09 - DEBUG - Getting Boards
+25/07/2022, 16:06:04 - DEBUG - Getting Boards
+25/07/2022, 16:12:09 - DEBUG - Getting Boards
+25/07/2022, 16:36:04 - DEBUG - Getting Boards
+25/07/2022, 16:37:39 - DEBUG - Getting Boards
+25/07/2022, 16:37:51 - DEBUG - Getting Boards
+25/07/2022, 17:00:13 - DEBUG - Getting Boards
+25/07/2022, 17:00:15 - DEBUG - Getting Boards
+25/07/2022, 17:12:18 - DEBUG - Getting Boards
+25/07/2022, 17:49:00 - DEBUG - Getting Boards
+25/07/2022, 17:49:09 - DEBUG - auth.service - login with username: guest
+25/07/2022, 17:49:09 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+25/07/2022, 17:49:38 - DEBUG - Getting Boards
+25/07/2022, 17:49:56 - DEBUG - Getting Boards
+25/07/2022, 19:12:43 - DEBUG - Getting Boards
+25/07/2022, 19:12:43 - DEBUG - Getting Boards
+25/07/2022, 19:29:34 - DEBUG - Getting Boards
+25/07/2022, 19:33:33 - DEBUG - Getting Boards
+25/07/2022, 19:45:59 - DEBUG - Getting Boards
+25/07/2022, 19:46:00 - DEBUG - Getting Boards
+25/07/2022, 19:54:33 - DEBUG - Getting Boards
+25/07/2022, 19:54:34 - DEBUG - Getting Boards
+25/07/2022, 19:58:19 - DEBUG - Getting Boards
+25/07/2022, 19:58:19 - DEBUG - Getting Boards
+25/07/2022, 20:01:55 - DEBUG - Getting Boards
+25/07/2022, 20:01:56 - DEBUG - Getting Boards
+25/07/2022, 20:20:43 - DEBUG - Getting Boards
+25/07/2022, 20:20:49 - DEBUG - Getting Boards
+25/07/2022, 20:22:18 - DEBUG - Getting Boards
+25/07/2022, 20:22:53 - DEBUG - Getting Boards
+25/07/2022, 20:56:12 - DEBUG - Getting Boards
+25/07/2022, 21:16:13 - DEBUG - Getting Boards
+25/07/2022, 21:24:35 - DEBUG - Getting Boards
+25/07/2022, 21:51:40 - DEBUG - Getting Boards
+25/07/2022, 22:03:37 - DEBUG - Getting Boards
+25/07/2022, 22:09:05 - DEBUG - Getting Boards
+25/07/2022, 22:09:13 - DEBUG - Getting Boards
+25/07/2022, 22:09:22 - DEBUG - Getting Boards
+25/07/2022, 22:09:30 - DEBUG - Getting Boards
+25/07/2022, 22:11:12 - DEBUG - Getting Boards
+25/07/2022, 22:11:33 - DEBUG - Getting Boards
+25/07/2022, 22:14:53 - DEBUG - Getting Boards
+25/07/2022, 22:15:50 - DEBUG - Getting Boards
+25/07/2022, 22:16:31 - DEBUG - Getting Boards
+25/07/2022, 22:17:33 - DEBUG - Getting Boards
+25/07/2022, 22:18:07 - DEBUG - Getting Boards
+25/07/2022, 22:18:30 - DEBUG - Getting Boards
+25/07/2022, 22:18:47 - DEBUG - Getting Boards
+25/07/2022, 22:19:31 - DEBUG - Getting Boards
+25/07/2022, 22:19:37 - DEBUG - Getting Boards
+25/07/2022, 22:21:25 - DEBUG - Getting Boards
+25/07/2022, 22:22:38 - INFO - Server is running on port: 3030
+25/07/2022, 22:23:08 - DEBUG - Getting Boards
+25/07/2022, 22:25:54 - DEBUG - Getting Boards
+25/07/2022, 22:25:59 - DEBUG - Getting Boards
+25/07/2022, 22:26:27 - DEBUG - Getting Boards
+25/07/2022, 22:27:01 - DEBUG - Getting Boards
+25/07/2022, 22:30:54 - DEBUG - Getting Boards
+26/07/2022, 8:14:49 - INFO - Server is running on port: 3030
+26/07/2022, 8:15:23 - DEBUG - Getting Boards
+26/07/2022, 8:16:33 - DEBUG - auth.service - login with username: guest
+26/07/2022, 8:16:33 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+26/07/2022, 8:28:51 - INFO - Server is running on port: 3030
+26/07/2022, 8:28:57 - DEBUG - Getting Boards
+26/07/2022, 8:29:20 - DEBUG - Getting Boards
+26/07/2022, 8:31:21 - DEBUG - Getting Boards
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 7/16/2022, 4:33:17 PM - INFO - Server is running on port: 3030
 7/16/2022, 4:33:18 PM - DEBUG - Getting Toys
@@ -2900,6 +3135,7 @@
 7/25/2022, 9:02:41 PM - INFO - Server is running on port: 3030
 7/25/2022, 9:03:27 PM - ERROR - while finding board undefined | {}
 7/25/2022, 9:03:27 PM - ERROR - Failed to get board | {}
+<<<<<<< HEAD
 7/25/2022, 9:06:16 PM - INFO - Server is running on port: 3030
 7/25/2022, 10:31:19 PM - DEBUG - auth.service - login with username: nadav
 7/25/2022, 10:31:19 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
@@ -2946,3 +3182,7 @@
 7/26/2022, 9:57:27 AM - INFO - Server is running on port: 3030
 7/26/2022, 9:58:09 AM - DEBUG - auth.service - login with username: nadav
 7/26/2022, 9:58:10 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+=======
+>>>>>>> ec645312c905921a1cfbfa27e7bb0163d6c74e5a
+>>>>>>> b2e94b93ef6d0a3b6a381d12d6356c42cfc4d4c1
+>>>>>>> e53cb67aa483a0a950d62462d531b6f5b2135293

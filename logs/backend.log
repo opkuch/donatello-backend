@@ -3398,3 +3398,134 @@
 26.7.2022, 12:40:36 - INFO - New connected socket [id: kD4a3nBcfzzzyg8RAAB3]
 26.7.2022, 12:40:37 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: kD4a3nBcfzzzyg8RAAB3]
 >>>>>>> dd867d8bc47b468bb9d2056e7873e346d3ace912
+26/07/2022, 12:45:19 - INFO - Server is running on port: 3030
+26/07/2022, 12:45:44 - INFO - New connected socket [id: dKkD5kDY14vXpTdAAAAB]
+26/07/2022, 12:45:45 - INFO - Setting socket.userId = 62dea2cf8133aa35b8bab37c for socket [id: dKkD5kDY14vXpTdAAAAB]
+26/07/2022, 12:47:11 - INFO - New connected socket [id: TAUg5hdR8cnVTQLVAAAD]
+26/07/2022, 12:47:11 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: TAUg5hdR8cnVTQLVAAAD]
+26/07/2022, 12:47:15 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:47:16 - INFO - New connected socket [id: 4nbyS9gyfqpmj7yvAAAF]
+26/07/2022, 12:47:16 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 4nbyS9gyfqpmj7yvAAAF]
+26/07/2022, 12:47:38 - DEBUG - auth.service - login with username: test
+26/07/2022, 12:47:38 - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+26/07/2022, 12:48:22 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:48:23 - INFO - New connected socket [id: HQL_gSFeB9q02W6rAAAH]
+26/07/2022, 12:48:23 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: HQL_gSFeB9q02W6rAAAH]
+26/07/2022, 12:49:11 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:49:11 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:49:24 - INFO - New connected socket [id: P3cfFtKAK6_f_6EUAAAK]
+26/07/2022, 12:49:24 - INFO - New connected socket [id: DsJdQbZ1f6JRipohAAAL]
+26/07/2022, 12:49:24 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: DsJdQbZ1f6JRipohAAAL]
+26/07/2022, 12:49:24 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: P3cfFtKAK6_f_6EUAAAK]
+26/07/2022, 12:49:35 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:49:37 - INFO - New connected socket [id: 3h1-Ohdr2m85wrYwAAAN]
+26/07/2022, 12:49:37 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 3h1-Ohdr2m85wrYwAAAN]
+26/07/2022, 12:49:49 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:49:50 - INFO - New connected socket [id: qFwUkObFQGocOw79AAAP]
+26/07/2022, 12:49:50 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: qFwUkObFQGocOw79AAAP]
+26/07/2022, 12:53:24 - INFO - Server is running on port: 3030
+26/07/2022, 12:53:25 - INFO - New connected socket [id: IFhA-wuJSDaD8Q9XAAAC]
+26/07/2022, 12:53:25 - INFO - New connected socket [id: jq5ByTeaoetbXdE0AAAD]
+26/07/2022, 12:53:31 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 12:53:33 - INFO - New connected socket [id: xv71tG1RDgf4riwXAAAF]
+26/07/2022, 12:53:33 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: xv71tG1RDgf4riwXAAAF]
+26/07/2022, 12:59:58 - INFO - Server is running on port: 3030
+26/07/2022, 12:59:58 - INFO - New connected socket [id: t1aobYYIhlEnRElAAAAB]
+26/07/2022, 12:59:58 - INFO - New connected socket [id: I4AKtMviWfFC5mTJAAAD]
+26/07/2022, 12:59:59 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:00:02 - INFO - New connected socket [id: 5K1yH7WQF0YdNCb6AAAF]
+26/07/2022, 13:00:02 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 5K1yH7WQF0YdNCb6AAAF]
+26/07/2022, 13:00:31 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:00:32 - INFO - New connected socket [id: Q1__84C_qM779yTbAAAH]
+26/07/2022, 13:00:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Q1__84C_qM779yTbAAAH]
+26/07/2022, 13:00:44 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:00:46 - INFO - New connected socket [id: JXSRuBPX2IfDZY29AAAJ]
+26/07/2022, 13:00:46 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: JXSRuBPX2IfDZY29AAAJ]
+26/07/2022, 13:00:53 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:00:55 - INFO - New connected socket [id: GCN4pcQKHkLV7A61AAAL]
+26/07/2022, 13:00:55 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: GCN4pcQKHkLV7A61AAAL]
+26/07/2022, 13:01:12 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:01:14 - INFO - New connected socket [id: 6B7jWbdlpu-OZKs8AAAN]
+26/07/2022, 13:01:14 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 6B7jWbdlpu-OZKs8AAAN]
+26/07/2022, 13:01:28 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:01:31 - INFO - New connected socket [id: yqRNvgezMXpAuROdAAAP]
+26/07/2022, 13:01:31 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: yqRNvgezMXpAuROdAAAP]
+26/07/2022, 13:01:45 - INFO - New connected socket [id: mMZa2rIZVBvAVVBQAAAR]
+26/07/2022, 13:01:45 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: mMZa2rIZVBvAVVBQAAAR]
+26/07/2022, 13:03:58 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:04:00 - INFO - New connected socket [id: SaQz4cJPezcdRH7mAAAT]
+26/07/2022, 13:04:00 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: SaQz4cJPezcdRH7mAAAT]
+26/07/2022, 13:04:07 - DEBUG - auth.service - login with username: test
+26/07/2022, 13:04:07 - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+26/07/2022, 13:04:17 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:04:19 - INFO - New connected socket [id: VJYjcXZudJWzRTjPAAAV]
+26/07/2022, 13:04:19 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: VJYjcXZudJWzRTjPAAAV]
+26/07/2022, 13:04:24 - DEBUG - auth.service - login with username: test
+26/07/2022, 13:04:24 - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+26/07/2022, 13:04:41 - INFO - Server is running on port: 3030
+26/07/2022, 13:04:41 - INFO - New connected socket [id: XDNPu_m9ks79u-CMAAAD]
+26/07/2022, 13:04:41 - INFO - New connected socket [id: WEHjz45yz_qrRv2DAAAE]
+26/07/2022, 13:04:42 - INFO - New connected socket [id: 93c3Rd4xbOmHZif8AAAF]
+26/07/2022, 13:04:42 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: XDNPu_m9ks79u-CMAAAD]
+26/07/2022, 13:05:20 - INFO - A task from socket [id: XDNPu_m9ks79u-CMAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:05:20 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:05:20 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62defcfa2af1b983f192c8c7
+26/07/2022, 13:05:38 - INFO - A task from socket [id: XDNPu_m9ks79u-CMAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:05:38 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:05:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62defcfa2af1b983f192c8c7
+26/07/2022, 13:05:50 - INFO - A task from socket [id: WEHjz45yz_qrRv2DAAAE], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:05:50 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:05:50 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: undefined
+26/07/2022, 13:05:56 - INFO - A task from socket [id: WEHjz45yz_qrRv2DAAAE], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:05:56 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:05:56 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: undefined
+26/07/2022, 13:08:23 - INFO - A task from socket [id: WEHjz45yz_qrRv2DAAAE], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:08:23 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:08:23 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: undefined
+26/07/2022, 13:10:02 - INFO - A task from socket [id: WEHjz45yz_qrRv2DAAAE], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:10:02 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:10:02 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: undefined
+26/07/2022, 13:10:19 - INFO - A task from socket [id: WEHjz45yz_qrRv2DAAAE], emitting to topic 62dd6e7b444331529fbf9dfb
+26/07/2022, 13:10:19 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:10:19 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: undefined
+26/07/2022, 13:11:51 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:11:52 - INFO - New connected socket [id: hTGYkJqpxLKtOfQbAAAH]
+26/07/2022, 13:11:53 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: hTGYkJqpxLKtOfQbAAAH]
+26/07/2022, 13:12:07 - INFO - Server is running on port: 3030
+26/07/2022, 13:12:07 - INFO - New connected socket [id: VkI0TkHYks7t3mK6AAAB]
+26/07/2022, 13:12:07 - INFO - New connected socket [id: XeFrZDY-_cK4lkTbAAAE]
+26/07/2022, 13:12:08 - INFO - New connected socket [id: NLQnZLS5AweoWNOuAAAF]
+26/07/2022, 13:12:59 - INFO - A task from socket [id: VkI0TkHYks7t3mK6AAAB], emitting to topic undefined
+26/07/2022, 13:12:59 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:12:59 - INFO - Broadcast to all excluding user: undefined
+26/07/2022, 13:13:01 - INFO - A task from socket [id: VkI0TkHYks7t3mK6AAAB], emitting to topic undefined
+26/07/2022, 13:13:01 - INFO - Broadcasting event: task-updated
+26/07/2022, 13:13:01 - INFO - Broadcast to all excluding user: undefined
+26/07/2022, 13:13:57 - INFO - Server is running on port: 3030
+26/07/2022, 13:13:57 - INFO - New connected socket [id: ZubdLGvecKOQDPm0AAAB]
+26/07/2022, 13:13:57 - INFO - New connected socket [id: BAJASPM_pJtOoZIkAAAE]
+26/07/2022, 13:13:57 - INFO - New connected socket [id: a56ocBZtxb8cF_iZAAAF]
+26/07/2022, 13:14:14 - INFO - Server is running on port: 3030
+26/07/2022, 13:14:14 - INFO - New connected socket [id: YWmY89hdpZrPGNiSAAAC]
+26/07/2022, 13:14:14 - INFO - New connected socket [id: JcL5ZRSVoI6yh_BdAAAD]
+26/07/2022, 13:14:14 - INFO - New connected socket [id: uT-91XIv2V4b8OKZAAAF]
+26/07/2022, 13:14:17 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:14:18 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:14:18 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:14:28 - INFO - New connected socket [id: 2FHpVNXsdX5op_T0AAAI]
+26/07/2022, 13:14:28 - INFO - New connected socket [id: yrfoqPqRLHf86tlsAAAJ]
+26/07/2022, 13:14:29 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 2FHpVNXsdX5op_T0AAAI]
+26/07/2022, 13:14:29 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: yrfoqPqRLHf86tlsAAAJ]
+26/07/2022, 13:14:29 - INFO - New connected socket [id: pB6y5ovRIxvnbdC4AAAL]
+26/07/2022, 13:14:31 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: pB6y5ovRIxvnbdC4AAAL]
+26/07/2022, 13:14:48 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:14:51 - INFO - New connected socket [id: thAywzbEUhIMU_5sAAAN]
+26/07/2022, 13:14:51 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: thAywzbEUhIMU_5sAAAN]
+26/07/2022, 13:14:53 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:14:57 - INFO - New connected socket [id: M2gepN5SyK0JqTQcAAAP]
+26/07/2022, 13:14:57 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: M2gepN5SyK0JqTQcAAAP]
+26/07/2022, 13:15:03 - DEBUG - auth.service - login with username: test
+26/07/2022, 13:15:04 - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+26/07/2022, 13:15:17 - INFO - Socket disconnected [id: undefined]
+26/07/2022, 13:15:19 - INFO - New connected socket [id: cp9GYeoY1rEMEUzGAAAR]
+26/07/2022, 13:15:19 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: cp9GYeoY1rEMEUzGAAAR]

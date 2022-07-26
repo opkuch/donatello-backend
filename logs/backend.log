@@ -2900,3 +2900,49 @@
 7/25/2022, 9:02:41 PM - INFO - Server is running on port: 3030
 7/25/2022, 9:03:27 PM - ERROR - while finding board undefined | {}
 7/25/2022, 9:03:27 PM - ERROR - Failed to get board | {}
+7/25/2022, 9:06:16 PM - INFO - Server is running on port: 3030
+7/25/2022, 10:31:19 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:31:19 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:32:30 PM - DEBUG - auth.service - login with username: guest
+7/25/2022, 10:32:30 PM - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+7/25/2022, 10:32:49 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:32:49 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:34:18 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:34:18 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:36:03 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:36:04 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:03:17 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:03:17 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:22:22 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:22:22 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:24:22 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:24:23 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$JlYpoHm5SiNtLPWkAfjt6ePkQqg2CRQc125Rc3dM4DLU6xWNgnWXy","fullname":"test","imgUrl":"https://media.giphy.com/media/uhxjOzPnrmH8wtjHrZ/giphy.gif","_id":"62defbf72af1b983f192c8c4"}
+7/25/2022, 11:24:23 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:24:23 PM - INFO - User login:  | {"_id":"62defbf72af1b983f192c8c4","username":"test","fullname":"test","imgUrl":"https://media.giphy.com/media/uhxjOzPnrmH8wtjHrZ/giphy.gif"}
+7/25/2022, 11:25:46 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:25:47 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$nv4pINVK7wasptwiWQEmEuMCLUzI8EROiYzl8EGBE8G8PQu8b7mnu","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg","_id":"62defc4a2af1b983f192c8c5"}
+7/25/2022, 11:25:47 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:25:47 PM - INFO - User login:  | {"_id":"62defc4a2af1b983f192c8c5","username":"test","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:27:14 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:27:14 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$.UhHne4umY9IXf2N117VjOSgd3tZgwpqxXhhheZOhCINdphXx12Uq","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780833/book_ks5h0s.webp","_id":"62defca22af1b983f192c8c6"}
+7/25/2022, 11:27:14 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:27:14 PM - INFO - User login:  | {"_id":"62defc4a2af1b983f192c8c5","username":"test","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:28:42 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:28:42 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$bPKgE0bQQdpGdFL7YMWu.uN8lgy6OEPr6uEcqPMGGuPPWzmokDqBG","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp","_id":"62defcfa2af1b983f192c8c7"}
+7/25/2022, 11:28:42 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:28:43 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/25/2022, 11:29:01 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:29:01 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:29:22 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:29:22 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/25/2022, 11:29:58 PM - DEBUG - auth.service - signup with username: test2, fullname: test2
+7/25/2022, 11:29:58 PM - DEBUG - auth.route - new account created: {"username":"test2","password":"$2b$10$awFdaXTjyPdNx6IZRYDbG.6rzxaSjuUYYBrGXLxhKMzbUxyO6Uxjq","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg","_id":"62defd462af1b983f192c8c8"}
+7/25/2022, 11:29:58 PM - DEBUG - auth.service - login with username: test2
+7/25/2022, 11:29:58 PM - INFO - User login:  | {"_id":"62defd462af1b983f192c8c8","username":"test2","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:30:14 PM - DEBUG - auth.service - login with username: test2
+7/25/2022, 11:30:15 PM - INFO - User login:  | {"_id":"62defd462af1b983f192c8c8","username":"test2","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/26/2022, 9:48:58 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:57:22 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:57:27 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:58:09 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 9:58:10 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}

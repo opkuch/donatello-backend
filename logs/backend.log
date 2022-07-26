@@ -3135,6 +3135,54 @@
 7/25/2022, 9:02:41 PM - INFO - Server is running on port: 3030
 7/25/2022, 9:03:27 PM - ERROR - while finding board undefined | {}
 7/25/2022, 9:03:27 PM - ERROR - Failed to get board | {}
+<<<<<<< HEAD
+7/25/2022, 9:06:16 PM - INFO - Server is running on port: 3030
+7/25/2022, 10:31:19 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:31:19 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:32:30 PM - DEBUG - auth.service - login with username: guest
+7/25/2022, 10:32:30 PM - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+7/25/2022, 10:32:49 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:32:49 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:34:18 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:34:18 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 10:36:03 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 10:36:04 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:03:17 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:03:17 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:22:22 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:22:22 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:24:22 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:24:23 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$JlYpoHm5SiNtLPWkAfjt6ePkQqg2CRQc125Rc3dM4DLU6xWNgnWXy","fullname":"test","imgUrl":"https://media.giphy.com/media/uhxjOzPnrmH8wtjHrZ/giphy.gif","_id":"62defbf72af1b983f192c8c4"}
+7/25/2022, 11:24:23 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:24:23 PM - INFO - User login:  | {"_id":"62defbf72af1b983f192c8c4","username":"test","fullname":"test","imgUrl":"https://media.giphy.com/media/uhxjOzPnrmH8wtjHrZ/giphy.gif"}
+7/25/2022, 11:25:46 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:25:47 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$nv4pINVK7wasptwiWQEmEuMCLUzI8EROiYzl8EGBE8G8PQu8b7mnu","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg","_id":"62defc4a2af1b983f192c8c5"}
+7/25/2022, 11:25:47 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:25:47 PM - INFO - User login:  | {"_id":"62defc4a2af1b983f192c8c5","username":"test","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:27:14 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:27:14 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$.UhHne4umY9IXf2N117VjOSgd3tZgwpqxXhhheZOhCINdphXx12Uq","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780833/book_ks5h0s.webp","_id":"62defca22af1b983f192c8c6"}
+7/25/2022, 11:27:14 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:27:14 PM - INFO - User login:  | {"_id":"62defc4a2af1b983f192c8c5","username":"test","fullname":"test","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:28:42 PM - DEBUG - auth.service - signup with username: test, fullname: test
+7/25/2022, 11:28:42 PM - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$bPKgE0bQQdpGdFL7YMWu.uN8lgy6OEPr6uEcqPMGGuPPWzmokDqBG","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp","_id":"62defcfa2af1b983f192c8c7"}
+7/25/2022, 11:28:42 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:28:43 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/25/2022, 11:29:01 PM - DEBUG - auth.service - login with username: nadav
+7/25/2022, 11:29:01 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/25/2022, 11:29:22 PM - DEBUG - auth.service - login with username: test
+7/25/2022, 11:29:22 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/25/2022, 11:29:58 PM - DEBUG - auth.service - signup with username: test2, fullname: test2
+7/25/2022, 11:29:58 PM - DEBUG - auth.route - new account created: {"username":"test2","password":"$2b$10$awFdaXTjyPdNx6IZRYDbG.6rzxaSjuUYYBrGXLxhKMzbUxyO6Uxjq","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg","_id":"62defd462af1b983f192c8c8"}
+7/25/2022, 11:29:58 PM - DEBUG - auth.service - login with username: test2
+7/25/2022, 11:29:58 PM - INFO - User login:  | {"_id":"62defd462af1b983f192c8c8","username":"test2","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/25/2022, 11:30:14 PM - DEBUG - auth.service - login with username: test2
+7/25/2022, 11:30:15 PM - INFO - User login:  | {"_id":"62defd462af1b983f192c8c8","username":"test2","fullname":"test2","imgUrl":"https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"}
+7/26/2022, 9:48:58 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:57:22 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:57:27 AM - INFO - Server is running on port: 3030
+7/26/2022, 9:58:09 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 9:58:10 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+=======
 >>>>>>> ec645312c905921a1cfbfa27e7bb0163d6c74e5a
 <<<<<<< HEAD
 26/07/2022, 8:59:38 - INFO - Server is running on port: 3030
@@ -3142,6 +3190,196 @@
 26/07/2022, 9:00:46 - INFO - User login:  | {"_id":"62dea2cf8133aa35b8bab37c","username":"guest","fullname":"Guest","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
 =======
 >>>>>>> b2e94b93ef6d0a3b6a381d12d6356c42cfc4d4c1
+<<<<<<< HEAD
+>>>>>>> e53cb67aa483a0a950d62462d531b6f5b2135293
+7/26/2022, 10:10:57 AM - INFO - Server is running on port: 3030
+7/26/2022, 10:10:59 AM - INFO - New connected socket [id: 3BWAnIw2zQ6yGQPqAAAB]
+7/26/2022, 10:11:00 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 3BWAnIw2zQ6yGQPqAAAB]
+7/26/2022, 10:12:33 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:12:34 AM - INFO - New connected socket [id: _04fJJuFFR-NrUJvAAAD]
+7/26/2022, 10:12:34 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: _04fJJuFFR-NrUJvAAAD]
+7/26/2022, 10:21:28 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:21:30 AM - INFO - New connected socket [id: dtdxwHuuVBv_FGKeAAAF]
+7/26/2022, 10:21:30 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: dtdxwHuuVBv_FGKeAAAF]
+7/26/2022, 10:31:04 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:31:12 AM - INFO - New connected socket [id: h5ZUM5LBpVsHqBO1AAAH]
+7/26/2022, 10:31:13 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: h5ZUM5LBpVsHqBO1AAAH]
+7/26/2022, 10:31:55 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:31:55 AM - INFO - New connected socket [id: hVFP2kmL-PzEtgQXAAAJ]
+7/26/2022, 10:31:55 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: hVFP2kmL-PzEtgQXAAAJ]
+7/26/2022, 10:32:49 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:33:00 AM - INFO - New connected socket [id: cZ2Sa-TryR3uO0dkAAAL]
+7/26/2022, 10:33:00 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: cZ2Sa-TryR3uO0dkAAAL]
+7/26/2022, 10:33:50 AM - INFO - A task from socket [id: cZ2Sa-TryR3uO0dkAAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+7/26/2022, 10:33:50 AM - INFO - Broadcasting event: task-updated
+7/26/2022, 10:33:50 AM - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+7/26/2022, 10:47:25 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 10:47:26 AM - INFO - New connected socket [id: kAS_VGOtneD0HbCNAAAN]
+7/26/2022, 10:47:27 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: kAS_VGOtneD0HbCNAAAN]
+7/26/2022, 11:11:23 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:11:23 AM - INFO - New connected socket [id: UtC-6w6cLzXPd2qQAAAP]
+7/26/2022, 11:11:24 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: UtC-6w6cLzXPd2qQAAAP]
+7/26/2022, 11:13:32 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:33 AM - INFO - New connected socket [id: oGDtpYN7MiE_2dH5AAAR]
+7/26/2022, 11:13:34 AM - INFO - Setting socket.userId = null for socket [id: oGDtpYN7MiE_2dH5AAAR]
+7/26/2022, 11:13:37 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:37 AM - INFO - New connected socket [id: 4QQUFOKPpvXOdV9dAAAT]
+7/26/2022, 11:13:37 AM - INFO - Setting socket.userId = null for socket [id: 4QQUFOKPpvXOdV9dAAAT]
+7/26/2022, 11:13:39 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:39 AM - INFO - New connected socket [id: bumrRO1_f9fXHPl-AAAV]
+7/26/2022, 11:13:40 AM - INFO - Setting socket.userId = null for socket [id: bumrRO1_f9fXHPl-AAAV]
+7/26/2022, 11:13:51 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:52 AM - INFO - New connected socket [id: ro6QaKDbhvRC3tKjAAAX]
+7/26/2022, 11:13:52 AM - INFO - Setting socket.userId = null for socket [id: ro6QaKDbhvRC3tKjAAAX]
+7/26/2022, 11:13:53 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:53 AM - INFO - New connected socket [id: kRit4DMlYKl6Em55AAAZ]
+7/26/2022, 11:13:54 AM - INFO - Setting socket.userId = null for socket [id: kRit4DMlYKl6Em55AAAZ]
+7/26/2022, 11:13:56 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:13:56 AM - INFO - New connected socket [id: wBJ-pfVAqo2jOF_NAAAb]
+7/26/2022, 11:13:57 AM - INFO - Setting socket.userId = null for socket [id: wBJ-pfVAqo2jOF_NAAAb]
+7/26/2022, 11:14:07 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:07 AM - INFO - New connected socket [id: wArCiZrfl2sbf7M3AAAd]
+7/26/2022, 11:14:08 AM - INFO - Setting socket.userId = null for socket [id: wArCiZrfl2sbf7M3AAAd]
+7/26/2022, 11:14:11 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:11 AM - INFO - New connected socket [id: wSYEzVLJpSL_8sviAAAf]
+7/26/2022, 11:14:12 AM - INFO - Setting socket.userId = null for socket [id: wSYEzVLJpSL_8sviAAAf]
+7/26/2022, 11:14:14 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:14 AM - INFO - New connected socket [id: IHQEo-mUGWFwc21yAAAh]
+7/26/2022, 11:14:15 AM - INFO - Setting socket.userId = null for socket [id: IHQEo-mUGWFwc21yAAAh]
+7/26/2022, 11:14:25 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 11:14:25 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 11:14:27 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:27 AM - INFO - New connected socket [id: W1Sy9PDbelXCzWR8AAAj]
+7/26/2022, 11:14:28 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: W1Sy9PDbelXCzWR8AAAj]
+7/26/2022, 11:14:34 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:35 AM - INFO - New connected socket [id: QZ2WfpWwub21Yb2oAAAl]
+7/26/2022, 11:14:35 AM - INFO - Setting socket.userId = null for socket [id: QZ2WfpWwub21Yb2oAAAl]
+7/26/2022, 11:14:39 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:14:39 AM - INFO - New connected socket [id: _IskkOwuGUvjlv_XAAAn]
+7/26/2022, 11:14:40 AM - INFO - Setting socket.userId = null for socket [id: _IskkOwuGUvjlv_XAAAn]
+7/26/2022, 11:15:26 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:15:27 AM - INFO - New connected socket [id: u2REh1TQYgZJdnv_AAAp]
+7/26/2022, 11:15:28 AM - INFO - Setting socket.userId = null for socket [id: u2REh1TQYgZJdnv_AAAp]
+7/26/2022, 11:15:29 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:15:30 AM - INFO - New connected socket [id: TLlNltHy2IcPMRBrAAAr]
+7/26/2022, 11:15:30 AM - INFO - Setting socket.userId = null for socket [id: TLlNltHy2IcPMRBrAAAr]
+7/26/2022, 11:15:32 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:15:33 AM - INFO - New connected socket [id: vR1I932Lh95vlqQxAAAt]
+7/26/2022, 11:15:33 AM - INFO - Setting socket.userId = null for socket [id: vR1I932Lh95vlqQxAAAt]
+7/26/2022, 11:15:35 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:15:35 AM - INFO - New connected socket [id: Hcmq8SeB7o9eLM54AAAv]
+7/26/2022, 11:15:36 AM - INFO - Setting socket.userId = null for socket [id: Hcmq8SeB7o9eLM54AAAv]
+7/26/2022, 11:15:43 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 11:15:43 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 11:15:44 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:15:45 AM - INFO - New connected socket [id: BEbtlrUwgLxB7QvdAAAx]
+7/26/2022, 11:15:45 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: BEbtlrUwgLxB7QvdAAAx]
+7/26/2022, 11:16:01 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:16:02 AM - INFO - New connected socket [id: S9W0UP5DsvAOsd-yAAAz]
+7/26/2022, 11:16:02 AM - INFO - Setting socket.userId = null for socket [id: S9W0UP5DsvAOsd-yAAAz]
+7/26/2022, 11:16:44 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:16:44 AM - INFO - New connected socket [id: _avXnVEC459cNWGOAAA1]
+7/26/2022, 11:16:45 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:16:45 AM - INFO - New connected socket [id: 2sInQuEJ-SwBzCfqAAA3]
+7/26/2022, 11:16:45 AM - INFO - Setting socket.userId = null for socket [id: 2sInQuEJ-SwBzCfqAAA3]
+7/26/2022, 11:16:48 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:16:48 AM - INFO - New connected socket [id: od-q5V6_hboOkcmvAAA5]
+7/26/2022, 11:16:48 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: od-q5V6_hboOkcmvAAA5]
+7/26/2022, 11:16:52 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:16:52 AM - INFO - New connected socket [id: 3TspAPK-IWAKFJgmAAA7]
+7/26/2022, 11:16:52 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 3TspAPK-IWAKFJgmAAA7]
+7/26/2022, 11:17:31 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:17:32 AM - INFO - New connected socket [id: UosJCYgdHXz7n5hLAAA9]
+7/26/2022, 11:17:32 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: UosJCYgdHXz7n5hLAAA9]
+7/26/2022, 11:17:49 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:17:49 AM - INFO - New connected socket [id: 3KYH0DryBt6QyVNMAAA_]
+7/26/2022, 11:17:49 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 3KYH0DryBt6QyVNMAAA_]
+7/26/2022, 11:18:04 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:18:04 AM - INFO - New connected socket [id: 9xG0r1GfqFRZD7ozAABB]
+7/26/2022, 11:18:04 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 9xG0r1GfqFRZD7ozAABB]
+7/26/2022, 11:18:31 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:18:32 AM - INFO - New connected socket [id: 24IIQhU-RRK7ofj4AABD]
+7/26/2022, 11:18:32 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 24IIQhU-RRK7ofj4AABD]
+7/26/2022, 11:18:32 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:18:33 AM - INFO - New connected socket [id: 8NhHJnfZqvBNGyc4AABF]
+7/26/2022, 11:18:33 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 8NhHJnfZqvBNGyc4AABF]
+7/26/2022, 11:18:43 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:18:43 AM - INFO - New connected socket [id: PkSo_SbbmpVm33G2AABH]
+7/26/2022, 11:18:44 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: PkSo_SbbmpVm33G2AABH]
+7/26/2022, 11:18:52 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 11:18:52 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 11:18:55 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:18:55 AM - INFO - New connected socket [id: 1BZGgNoVjTG0fVPgAABJ]
+7/26/2022, 11:18:56 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 1BZGgNoVjTG0fVPgAABJ]
+7/26/2022, 11:19:02 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:19:02 AM - INFO - New connected socket [id: dvJb_vmyTvhOLseEAABL]
+7/26/2022, 11:19:02 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: dvJb_vmyTvhOLseEAABL]
+7/26/2022, 11:19:34 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:19:36 AM - INFO - New connected socket [id: Hdsra5QxthFptwaUAABN]
+7/26/2022, 11:19:37 AM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Hdsra5QxthFptwaUAABN]
+7/26/2022, 11:19:45 AM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 11:19:45 AM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 11:19:48 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:19:49 AM - INFO - New connected socket [id: inLc5ZGGkksK_5I9AABP]
+7/26/2022, 11:19:49 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: inLc5ZGGkksK_5I9AABP]
+7/26/2022, 11:26:53 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:26:53 AM - INFO - New connected socket [id: lgTfPBnn2kWlX4DsAABR]
+7/26/2022, 11:26:53 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: lgTfPBnn2kWlX4DsAABR]
+7/26/2022, 11:27:10 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:27:11 AM - INFO - New connected socket [id: A0YRJsCP9n3PciDUAABT]
+7/26/2022, 11:27:11 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: A0YRJsCP9n3PciDUAABT]
+7/26/2022, 11:28:19 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:28:20 AM - INFO - New connected socket [id: I2tR-tjOTTKmfX4YAABV]
+7/26/2022, 11:28:20 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: I2tR-tjOTTKmfX4YAABV]
+7/26/2022, 11:28:29 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:28:29 AM - INFO - New connected socket [id: ymoVTdvGi7tmJ_-4AABX]
+7/26/2022, 11:28:29 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: ymoVTdvGi7tmJ_-4AABX]
+7/26/2022, 11:28:38 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:28:38 AM - INFO - New connected socket [id: igzyfjF512M_zeHEAABZ]
+7/26/2022, 11:28:39 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: igzyfjF512M_zeHEAABZ]
+7/26/2022, 11:28:45 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:28:46 AM - INFO - New connected socket [id: oURfxRuCequKRimeAABb]
+7/26/2022, 11:28:46 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: oURfxRuCequKRimeAABb]
+7/26/2022, 11:30:27 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:30:28 AM - INFO - New connected socket [id: 1zoHdu49vbgbd7sPAABd]
+7/26/2022, 11:30:28 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 1zoHdu49vbgbd7sPAABd]
+7/26/2022, 11:31:33 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:31:33 AM - INFO - New connected socket [id: 92mGHnUI_dqCcswdAABf]
+7/26/2022, 11:31:33 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 92mGHnUI_dqCcswdAABf]
+7/26/2022, 11:31:38 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:31:38 AM - INFO - New connected socket [id: AljRmQlXz5XA6LqkAABh]
+7/26/2022, 11:31:38 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: AljRmQlXz5XA6LqkAABh]
+7/26/2022, 11:32:00 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:32:01 AM - INFO - New connected socket [id: BkcavfwDHvuonzL8AABj]
+7/26/2022, 11:32:01 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: BkcavfwDHvuonzL8AABj]
+7/26/2022, 11:34:17 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:34:18 AM - INFO - New connected socket [id: -1AFENosYXsW4HasAABl]
+7/26/2022, 11:34:18 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: -1AFENosYXsW4HasAABl]
+7/26/2022, 11:34:22 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:34:22 AM - INFO - New connected socket [id: ImEvrIG8DDO1j2kvAABn]
+7/26/2022, 11:34:22 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: ImEvrIG8DDO1j2kvAABn]
+7/26/2022, 11:54:21 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:54:21 AM - INFO - New connected socket [id: Qr3nJw1LaMXK20gKAABp]
+7/26/2022, 11:54:22 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: Qr3nJw1LaMXK20gKAABp]
+7/26/2022, 11:56:07 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:56:08 AM - INFO - New connected socket [id: aC9IbVmMBY5FKSivAABr]
+7/26/2022, 11:56:08 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: aC9IbVmMBY5FKSivAABr]
+7/26/2022, 11:56:21 AM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 11:56:21 AM - INFO - New connected socket [id: me9rN70CTxZzg0ShAABt]
+7/26/2022, 11:56:21 AM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: me9rN70CTxZzg0ShAABt]
+7/26/2022, 12:04:51 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:04:52 PM - INFO - New connected socket [id: 2IZHa8OmcLX-GGeUAABv]
+7/26/2022, 12:04:52 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 2IZHa8OmcLX-GGeUAABv]
+7/26/2022, 12:06:50 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:06:50 PM - INFO - New connected socket [id: JA83yiF-mRQpZej5AABx]
+7/26/2022, 12:06:51 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: JA83yiF-mRQpZej5AABx]
+7/26/2022, 12:14:44 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:14:44 PM - INFO - New connected socket [id: XDmjUJs-cadXJbZCAABz]
+7/26/2022, 12:14:44 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: XDmjUJs-cadXJbZCAABz]
+7/26/2022, 12:34:51 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:34:52 PM - INFO - New connected socket [id: 0GuJJkyNcSbN8liRAAB1]
+7/26/2022, 12:34:52 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 0GuJJkyNcSbN8liRAAB1]
+=======
 26.7.2022, 9:52:55 - INFO - Server is running on port: 3030
 26.7.2022, 9:52:56 - INFO - New connected socket [id: 1NcMoN5e_4BAvadGAAAB]
 26.7.2022, 9:53:44 - INFO - A task from socket [id: 1NcMoN5e_4BAvadGAAAB], emitting to topic undefined
@@ -3398,6 +3636,7 @@
 26.7.2022, 12:40:36 - INFO - New connected socket [id: kD4a3nBcfzzzyg8RAAB3]
 26.7.2022, 12:40:37 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: kD4a3nBcfzzzyg8RAAB3]
 >>>>>>> dd867d8bc47b468bb9d2056e7873e346d3ace912
+<<<<<<< HEAD
 26/07/2022, 12:45:19 - INFO - Server is running on port: 3030
 26/07/2022, 12:45:44 - INFO - New connected socket [id: dKkD5kDY14vXpTdAAAAB]
 26/07/2022, 12:45:45 - INFO - Setting socket.userId = 62dea2cf8133aa35b8bab37c for socket [id: dKkD5kDY14vXpTdAAAAB]
@@ -3529,3 +3768,166 @@
 26/07/2022, 13:15:17 - INFO - Socket disconnected [id: undefined]
 26/07/2022, 13:15:19 - INFO - New connected socket [id: cp9GYeoY1rEMEUzGAAAR]
 26/07/2022, 13:15:19 - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: cp9GYeoY1rEMEUzGAAAR]
+=======
+<<<<<<< HEAD
+7/26/2022, 12:43:20 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:43:24 PM - INFO - New connected socket [id: pXsszABZZ5_zUPyyAAAB]
+7/26/2022, 12:43:24 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: pXsszABZZ5_zUPyyAAAB]
+7/26/2022, 12:43:30 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:43:30 PM - INFO - New connected socket [id: 9QiZNkLYqVQWoA9BAAAD]
+7/26/2022, 12:43:31 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 9QiZNkLYqVQWoA9BAAAD]
+7/26/2022, 12:43:42 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:43:42 PM - INFO - New connected socket [id: 9wF-mQ-G6VzeQl5UAAAF]
+7/26/2022, 12:43:42 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: 9wF-mQ-G6VzeQl5UAAAF]
+7/26/2022, 12:44:28 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:44:28 PM - INFO - New connected socket [id: dJYcAqV-uQH0qtdOAAAH]
+7/26/2022, 12:44:29 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: dJYcAqV-uQH0qtdOAAAH]
+7/26/2022, 12:44:45 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:44:45 PM - INFO - New connected socket [id: IKxle63sliQVaAqNAAAJ]
+7/26/2022, 12:44:46 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: IKxle63sliQVaAqNAAAJ]
+7/26/2022, 12:44:58 PM - INFO - A task from socket [id: IKxle63sliQVaAqNAAAJ], emitting to topic 62dd6e7b444331529fbf9dfb
+7/26/2022, 12:44:58 PM - INFO - Broadcasting event: task-updated
+7/26/2022, 12:44:58 PM - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62decd48338c60e2caca6cb6
+7/26/2022, 12:45:23 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:45:26 PM - INFO - New connected socket [id: rgEVu5BH9wxiFgfXAAAL]
+7/26/2022, 12:45:26 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: rgEVu5BH9wxiFgfXAAAL]
+7/26/2022, 12:45:42 PM - INFO - A task from socket [id: rgEVu5BH9wxiFgfXAAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+7/26/2022, 12:45:42 PM - INFO - Broadcasting event: task-updated
+7/26/2022, 12:45:42 PM - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62decd48338c60e2caca6cb6
+7/26/2022, 12:45:45 PM - INFO - A task from socket [id: rgEVu5BH9wxiFgfXAAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+7/26/2022, 12:45:45 PM - INFO - Broadcasting event: task-updated
+7/26/2022, 12:45:45 PM - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62decd48338c60e2caca6cb6
+7/26/2022, 12:48:01 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:48:02 PM - INFO - New connected socket [id: Lf7SZBPOOcGcH2qwAAAN]
+7/26/2022, 12:48:02 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: Lf7SZBPOOcGcH2qwAAAN]
+7/26/2022, 12:48:12 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:48:12 PM - INFO - New connected socket [id: EfIZ_F5SJixUaZrDAAAP]
+7/26/2022, 12:48:13 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: EfIZ_F5SJixUaZrDAAAP]
+7/26/2022, 12:49:50 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:01 PM - INFO - New connected socket [id: u8DMw7hQdV4LbogGAAAR]
+7/26/2022, 12:50:01 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: u8DMw7hQdV4LbogGAAAR]
+7/26/2022, 12:50:04 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:04 PM - INFO - New connected socket [id: XKctRHE6z6_NGcYgAAAT]
+7/26/2022, 12:50:05 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: XKctRHE6z6_NGcYgAAAT]
+7/26/2022, 12:50:11 PM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 12:50:11 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 12:50:34 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:34 PM - INFO - New connected socket [id: fTAJrC-4d_XX40DLAAAV]
+7/26/2022, 12:50:35 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: fTAJrC-4d_XX40DLAAAV]
+7/26/2022, 12:50:49 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:50:49 PM - INFO - New connected socket [id: ZM4EBifu1rvI2ar-AAAX]
+7/26/2022, 12:50:49 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: ZM4EBifu1rvI2ar-AAAX]
+7/26/2022, 12:51:18 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:51:19 PM - INFO - New connected socket [id: 3RWCIYQX5z-UNkszAAAZ]
+7/26/2022, 12:51:19 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 3RWCIYQX5z-UNkszAAAZ]
+7/26/2022, 12:51:23 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:51:24 PM - INFO - New connected socket [id: Iyfx-D6jH8pMeBKJAAAb]
+7/26/2022, 12:51:24 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Iyfx-D6jH8pMeBKJAAAb]
+7/26/2022, 12:52:08 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:52:08 PM - INFO - New connected socket [id: P3LXlXhnz5RoJGlpAAAd]
+7/26/2022, 12:52:08 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: P3LXlXhnz5RoJGlpAAAd]
+7/26/2022, 12:52:25 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:52:26 PM - INFO - New connected socket [id: fUWZ7CBdcjUpL_68AAAf]
+7/26/2022, 12:52:27 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: fUWZ7CBdcjUpL_68AAAf]
+7/26/2022, 12:55:34 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:55:39 PM - INFO - New connected socket [id: 5YPVjCg9ZJUM3pkaAAAh]
+7/26/2022, 12:55:40 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 5YPVjCg9ZJUM3pkaAAAh]
+7/26/2022, 12:56:03 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:56:18 PM - INFO - New connected socket [id: nOzsmtnV04DkouzRAAAj]
+7/26/2022, 12:56:19 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: nOzsmtnV04DkouzRAAAj]
+7/26/2022, 12:56:21 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:56:22 PM - INFO - New connected socket [id: XWfM7KqfIIbFEw7pAAAl]
+7/26/2022, 12:56:22 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: XWfM7KqfIIbFEw7pAAAl]
+7/26/2022, 12:56:22 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:56:49 PM - INFO - New connected socket [id: BFRiGuU3CICH1oZ7AAAn]
+7/26/2022, 12:56:49 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: BFRiGuU3CICH1oZ7AAAn]
+7/26/2022, 12:57:18 PM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 12:57:18 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 12:57:19 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:57:19 PM - INFO - New connected socket [id: FGfdRq-FLdObIXKQAAAp]
+7/26/2022, 12:57:19 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: FGfdRq-FLdObIXKQAAAp]
+7/26/2022, 12:57:26 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:57:26 PM - INFO - New connected socket [id: ImN162ELhaHVSTq8AAAr]
+7/26/2022, 12:57:27 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: ImN162ELhaHVSTq8AAAr]
+7/26/2022, 12:58:09 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:10 PM - INFO - New connected socket [id: he30x8vB6d84dwriAAAt]
+7/26/2022, 12:58:10 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: he30x8vB6d84dwriAAAt]
+7/26/2022, 12:58:37 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:58:37 PM - INFO - New connected socket [id: itcn0_RnmDAA-vxdAAAv]
+7/26/2022, 12:58:37 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: itcn0_RnmDAA-vxdAAAv]
+7/26/2022, 12:58:58 PM - INFO - Server is running on port: 3030
+7/26/2022, 12:59:00 PM - INFO - New connected socket [id: pZVT54IAdORvesVeAAAB]
+7/26/2022, 12:59:01 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: pZVT54IAdORvesVeAAAB]
+7/26/2022, 12:59:06 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:59:07 PM - INFO - New connected socket [id: hL31cF7vFvDlao1-AAAD]
+7/26/2022, 12:59:07 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: hL31cF7vFvDlao1-AAAD]
+7/26/2022, 12:59:25 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:59:25 PM - INFO - New connected socket [id: pXh8mixEyVZ2f7olAAAF]
+7/26/2022, 12:59:25 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: pXh8mixEyVZ2f7olAAAF]
+7/26/2022, 12:59:38 PM - DEBUG - auth.service - signup with username: asd, fullname: asd
+7/26/2022, 12:59:38 PM - DEBUG - auth.route - new account created: {"username":"asd","password":"$2b$10$IQVSC.w.2a97BlEr7ysGJOo/5VtyN4UrsQO.tC3UtTPidC.gxtveq","fullname":"asd","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png","_id":"62dfbb0afcdec9eb2ae39369"}
+7/26/2022, 12:59:38 PM - DEBUG - auth.service - login with username: asd
+7/26/2022, 12:59:38 PM - INFO - User login:  | {"_id":"62dfbb0afcdec9eb2ae39369","username":"asd","fullname":"asd","imgUrl":"https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png"}
+7/26/2022, 12:59:40 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:59:41 PM - INFO - New connected socket [id: pA9o_jY50VywMJR4AAAH]
+7/26/2022, 12:59:41 PM - INFO - Setting socket.userId = null for socket [id: pA9o_jY50VywMJR4AAAH]
+7/26/2022, 12:59:53 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 12:59:53 PM - INFO - New connected socket [id: Mz2uFRrH8jQGelYFAAAJ]
+7/26/2022, 12:59:53 PM - INFO - Setting socket.userId = null for socket [id: Mz2uFRrH8jQGelYFAAAJ]
+7/26/2022, 1:00:36 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:01:57 PM - INFO - New connected socket [id: 4sdxNSxFdsAND64FAAAL]
+7/26/2022, 1:01:58 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 4sdxNSxFdsAND64FAAAL]
+7/26/2022, 1:02:32 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:02:33 PM - INFO - New connected socket [id: Nnw0CP1afHxVCK-bAAAB]
+7/26/2022, 1:02:44 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:02:45 PM - INFO - New connected socket [id: O2SSoQZcJTkjb4tlAAAB]
+7/26/2022, 1:02:53 PM - INFO - New connected socket [id: ofks2DWVxnBe2lDtAAAD]
+7/26/2022, 1:02:54 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: ofks2DWVxnBe2lDtAAAD]
+7/26/2022, 1:03:06 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:04:42 PM - INFO - New connected socket [id: wP6xoL68PkdPN7g-AAAF]
+7/26/2022, 1:04:42 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: wP6xoL68PkdPN7g-AAAF]
+7/26/2022, 1:04:45 PM - DEBUG - auth.service - login with username: nadav
+7/26/2022, 1:04:46 PM - INFO - User login:  | {"_id":"62decd48338c60e2caca6cb6","username":"nadav","fullname":"Nadav Ben Hur","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658768709/T035GULFZRD-U03CCTG0K41-1528ec11cdc8-512_ejf3w6.jpg"}
+7/26/2022, 1:04:49 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:04:49 PM - INFO - New connected socket [id: nfPqcbu7pt65jIumAAAH]
+7/26/2022, 1:04:50 PM - INFO - Setting socket.userId = 62decd48338c60e2caca6cb6 for socket [id: nfPqcbu7pt65jIumAAAH]
+7/26/2022, 1:04:53 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:04:53 PM - INFO - New connected socket [id: pu1MkkTAP8xXKpk1AAAJ]
+7/26/2022, 1:04:54 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: pu1MkkTAP8xXKpk1AAAJ]
+7/26/2022, 1:04:58 PM - DEBUG - auth.service - login with username: test
+7/26/2022, 1:04:58 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/26/2022, 1:05:01 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:05:01 PM - INFO - New connected socket [id: t5SBW2YBDFMEE0SYAAAL]
+7/26/2022, 1:05:02 PM - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: t5SBW2YBDFMEE0SYAAAL]
+=======
+>>>>>>> a9e25b7446cf8ed88fc773515b82ae3c1eb20207
+7/26/2022, 1:07:50 PM - INFO - Server is running on port: 3030
+7/26/2022, 1:07:54 PM - INFO - New connected socket [id: yAW2Gb3T7InnsL3MAAAB]
+7/26/2022, 1:07:55 PM - INFO - New connected socket [id: UvIzkTbkLELnL0TaAAAD]
+7/26/2022, 1:07:55 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:07:56 PM - INFO - New connected socket [id: igXpY2L2TXyQhkrmAAAF]
+7/26/2022, 1:07:56 PM - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: igXpY2L2TXyQhkrmAAAF]
+7/26/2022, 1:08:09 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:08:09 PM - INFO - New connected socket [id: S6lM5LUcf0LrufrPAAAH]
+7/26/2022, 1:08:10 PM - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: S6lM5LUcf0LrufrPAAAH]
+7/26/2022, 1:08:12 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:08:13 PM - INFO - New connected socket [id: xLlGN9H3y5CIrZEaAAAJ]
+7/26/2022, 1:08:13 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: xLlGN9H3y5CIrZEaAAAJ]
+7/26/2022, 1:08:16 PM - DEBUG - auth.service - login with username: test
+7/26/2022, 1:08:16 PM - INFO - User login:  | {"_id":"62defcfa2af1b983f192c8c7","username":"test","fullname":"test","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658780921/book_becsvp.webp"}
+7/26/2022, 1:08:17 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:08:17 PM - INFO - New connected socket [id: QsFUsws3iAisckcYAAAL]
+7/26/2022, 1:08:18 PM - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: QsFUsws3iAisckcYAAAL]
+7/26/2022, 1:08:19 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:08:20 PM - INFO - New connected socket [id: _tq14R_EnmXg6mGkAAAN]
+7/26/2022, 1:08:20 PM - INFO - Setting socket.userId = 62defcfa2af1b983f192c8c7 for socket [id: _tq14R_EnmXg6mGkAAAN]
+7/26/2022, 1:08:24 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:11:15 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:11:17 PM - INFO - New connected socket [id: RVNLISh8JbnWRG8zAAAP]
+7/26/2022, 1:11:18 PM - INFO - New connected socket [id: x1lkrS0Aql9DdoKYAAAR]
+7/26/2022, 1:11:19 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: x1lkrS0Aql9DdoKYAAAR]
+7/26/2022, 1:11:19 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: RVNLISh8JbnWRG8zAAAP]
+7/26/2022, 1:11:31 PM - INFO - Socket disconnected [id: undefined]
+7/26/2022, 1:11:31 PM - INFO - New connected socket [id: WetV__sbd0sJWeNJAAAT]
+7/26/2022, 1:11:31 PM - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: WetV__sbd0sJWeNJAAAT]
+>>>>>>> 4e88496bc0b778eb0453966ca0cf4af09d6465e2

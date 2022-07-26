@@ -41,6 +41,15 @@ function setupSocketAPI(http) {
                 userId: socket.userId
             })
         })
+        socket.on('update-board', board => {
+            logger.info(`A board from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
+            broadcast({
+                type: 'board-updated',
+                data: board,
+                room: socket.myTopic,
+                userId: socket.userId
+            })
+        })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
             socket.join('watching:' + userId)

@@ -6362,3 +6362,568 @@
 27/07/2022, 23:14:45 - INFO - A task from socket [id: Al3x-SLv-KnaCXVlAAAB], emitting to topic undefined
 27/07/2022, 23:14:45 - INFO - Broadcasting event: task-updated
 27/07/2022, 23:14:45 - INFO - Broadcast to all excluding user: undefined
+28/07/2022, 8:58:24 - INFO - Server is running on port: 3030
+28/07/2022, 9:02:42 - INFO - New connected socket [id: PcrhBngT5TQcvTRoAAAB]
+28/07/2022, 9:02:42 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: PcrhBngT5TQcvTRoAAAB]
+28/07/2022, 9:08:51 - INFO - A board from socket [id: PcrhBngT5TQcvTRoAAAB], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:08:51 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:08:51 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:11:15 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:11:20 - INFO - New connected socket [id: C6s-aSuaGDm4F44gAAAD]
+28/07/2022, 9:11:20 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: C6s-aSuaGDm4F44gAAAD]
+28/07/2022, 9:11:47 - INFO - A task from socket [id: C6s-aSuaGDm4F44gAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:11:47 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:11:47 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:21:57 - INFO - A task from socket [id: C6s-aSuaGDm4F44gAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:21:57 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:21:57 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:22:17 - INFO - A task from socket [id: C6s-aSuaGDm4F44gAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:22:17 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:22:17 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:23:24 - INFO - A board from socket [id: C6s-aSuaGDm4F44gAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:23:24 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:23:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:23:24 - INFO - A board from socket [id: C6s-aSuaGDm4F44gAAAD], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:23:24 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:23:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:24:09 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:24:11 - INFO - New connected socket [id: PQmZIXH8-0JsSw_rAAAF]
+28/07/2022, 9:24:11 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: PQmZIXH8-0JsSw_rAAAF]
+28/07/2022, 9:24:42 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:24:44 - INFO - New connected socket [id: j5UrrhvbiWCcJRhKAAAH]
+28/07/2022, 9:24:45 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: j5UrrhvbiWCcJRhKAAAH]
+28/07/2022, 9:25:31 - INFO - A board from socket [id: j5UrrhvbiWCcJRhKAAAH], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:25:31 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:25:31 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:25:51 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:25:53 - INFO - New connected socket [id: xTCXN4L3eTPJEUu3AAAJ]
+28/07/2022, 9:25:53 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: xTCXN4L3eTPJEUu3AAAJ]
+28/07/2022, 9:31:27 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:31:30 - INFO - New connected socket [id: E72l7TgUF55xOt7VAAAL]
+28/07/2022, 9:31:30 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: E72l7TgUF55xOt7VAAAL]
+28/07/2022, 9:33:44 - INFO - A group from socket [id: E72l7TgUF55xOt7VAAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:33:44 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:33:44 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:33:48 - INFO - A group from socket [id: E72l7TgUF55xOt7VAAAL], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:33:48 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:33:48 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:33:49 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:33:50 - INFO - New connected socket [id: ztZmNVuzoDPrYvGZAAAN]
+28/07/2022, 9:33:51 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: ztZmNVuzoDPrYvGZAAAN]
+28/07/2022, 9:34:10 - INFO - A group from socket [id: ztZmNVuzoDPrYvGZAAAN], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:34:10 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:34:10 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:34:17 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:34:18 - INFO - New connected socket [id: 4XrJPKdZQXC7SbYIAAAP]
+28/07/2022, 9:34:19 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 4XrJPKdZQXC7SbYIAAAP]
+28/07/2022, 9:34:28 - INFO - A group from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:34:28 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:34:28 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:34:29 - INFO - A group from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:34:29 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:34:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:34:29 - INFO - A group from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:34:29 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:34:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:34 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:34 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:34 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:39 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:39 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:39 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:46 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:46 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:46 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:58 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:58 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:58 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:58 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:58 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:58 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:58 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:58 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:58 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:36:58 - INFO - A task from socket [id: 4XrJPKdZQXC7SbYIAAAP], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:36:58 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:36:58 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:16 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:37:17 - INFO - New connected socket [id: vX4sf0BQ5mdh3owqAAAR]
+28/07/2022, 9:37:17 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: vX4sf0BQ5mdh3owqAAAR]
+28/07/2022, 9:37:23 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:23 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:23 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:23 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:23 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:23 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:24 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:24 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:24 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:24 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:33 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:33 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:33 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:33 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:33 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:33 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:33 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:33 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:47 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:47 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:47 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:49 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:49 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:49 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:37:51 - INFO - A task from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:37:51 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:37:51 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:39:17 - INFO - New connected socket [id: yAXq8Q18-HlPw2sfAAAT]
+28/07/2022, 9:39:17 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: yAXq8Q18-HlPw2sfAAAT]
+28/07/2022, 9:41:42 - DEBUG - auth.service - signup with username: barry, fullname: Bar Bronshtein
+28/07/2022, 9:41:42 - DEBUG - auth.route - new account created: {"username":"barry","password":"$2b$10$/D.fsVk/9/A.T8MM3/MEgufPcvURUmGYzLq57cdKuiSRihE3qXo/y","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990500/WhatsApp_Image_2022-05-08_at_11.56.05_ok4unb.jpg","_id":"62e22fa6b530b64caf3c5d17"}
+28/07/2022, 9:41:42 - DEBUG - auth.service - login with username: barry
+28/07/2022, 9:41:42 - INFO - User login:  | {"_id":"62e22fa6b530b64caf3c5d17","username":"barry","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990500/WhatsApp_Image_2022-05-08_at_11.56.05_ok4unb.jpg"}
+28/07/2022, 9:42:44 - DEBUG - auth.service - signup with username: bar, fullname: Bar Bronshtein
+28/07/2022, 9:42:44 - DEBUG - auth.route - new account created: {"username":"bar","password":"$2b$10$tMmACbgWUuDtfHygqqJuuuf9S8QLRhxWey/NJ7sAM6ndoOuYGebje","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990562/WhatsApp_Image_2022-04-29_at_13.56.57_pqykmx.jpg","_id":"62e22fe4b530b64caf3c5d18"}
+28/07/2022, 9:42:44 - DEBUG - auth.service - login with username: bar
+28/07/2022, 9:42:45 - INFO - User login:  | {"_id":"62e22fe4b530b64caf3c5d18","username":"bar","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990562/WhatsApp_Image_2022-04-29_at_13.56.57_pqykmx.jpg"}
+28/07/2022, 9:43:11 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:11 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:11 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:27 - INFO - A board from socket [id: yAXq8Q18-HlPw2sfAAAT], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:27 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:27 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:33 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:33 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:36 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:36 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:36 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:40 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:40 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:40 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:43 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:43 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:43 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:46 - INFO - A board from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:46 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:43:46 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:43:53 - INFO - A group from socket [id: vX4sf0BQ5mdh3owqAAAR], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:43:53 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:43:53 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:44:14 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:44:22 - INFO - New connected socket [id: R1_GLaWyJJkfVJw-AAAV]
+28/07/2022, 9:44:22 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: R1_GLaWyJJkfVJw-AAAV]
+28/07/2022, 9:45:02 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:45:02 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:45:02 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:45:05 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:45:08 - INFO - New connected socket [id: GPzjJJj6WMjPuXE5AAAX]
+28/07/2022, 9:45:08 - INFO - Setting socket.userId = null for socket [id: GPzjJJj6WMjPuXE5AAAX]
+28/07/2022, 9:45:29 - INFO - A group from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:45:29 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:45:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:45:30 - INFO - A group from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:45:30 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:45:30 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:45:53 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:46:25 - INFO - New connected socket [id: ynsI4mEpDiRFK0ZAAAAZ]
+28/07/2022, 9:46:25 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: ynsI4mEpDiRFK0ZAAAAZ]
+28/07/2022, 9:46:48 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:46:48 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:46:48 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:46:52 - INFO - A board from socket [id: ynsI4mEpDiRFK0ZAAAAZ], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:46:52 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:46:52 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:04 - DEBUG - auth.service - login with username: bar
+28/07/2022, 9:47:05 - INFO - User login:  | {"_id":"62e22fe4b530b64caf3c5d18","username":"bar","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990562/WhatsApp_Image_2022-04-29_at_13.56.57_pqykmx.jpg"}
+28/07/2022, 9:47:17 - INFO - A board from socket [id: ynsI4mEpDiRFK0ZAAAAZ], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:17 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:17 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:22 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:22 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:22 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:29 - INFO - A board from socket [id: ynsI4mEpDiRFK0ZAAAAZ], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:29 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:36 - INFO - A board from socket [id: ynsI4mEpDiRFK0ZAAAAZ], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:36 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:36 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:38 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:38 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:42 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:42 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:42 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:46 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:46 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:46 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:50 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:50 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:50 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:54 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:54 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:54 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:54 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:54 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:54 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:57 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:57 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:57 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:47:57 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:47:57 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:47:57 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:48:18 - INFO - A task from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:48:18 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:48:18 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:48:45 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:49:00 - INFO - New connected socket [id: YRW_FNIUgC9v2WzpAAAb]
+28/07/2022, 9:49:00 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: YRW_FNIUgC9v2WzpAAAb]
+28/07/2022, 9:50:32 - INFO - A task from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:50:32 - INFO - Broadcasting event: task-updated
+28/07/2022, 9:50:32 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:50:59 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:51:20 - INFO - New connected socket [id: S9qfRN2dllQOAKuMAAAd]
+28/07/2022, 9:51:20 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: S9qfRN2dllQOAKuMAAAd]
+28/07/2022, 9:51:29 - DEBUG - auth.service - login with username: bnaya
+28/07/2022, 9:51:29 - INFO - User login:  | {"_id":"62dfb92ad5cc68790e947788","username":"bnaya","fullname":"Bnaya Cohen","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658829093/IMG_3404_umxc73.jpg"}
+28/07/2022, 9:52:13 - DEBUG - auth.service - login with username: bar
+28/07/2022, 9:52:13 - INFO - User login:  | {"_id":"62e22fe4b530b64caf3c5d18","username":"bar","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990562/WhatsApp_Image_2022-04-29_at_13.56.57_pqykmx.jpg"}
+28/07/2022, 9:52:49 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:52:49 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:52:49 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:52:56 - INFO - A group from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:52:56 - INFO - Broadcasting event: group-updated
+28/07/2022, 9:52:56 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:53:20 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:54:11 - INFO - New connected socket [id: aL7Q7SRaPhyiI_z-AAAf]
+28/07/2022, 9:54:11 - ERROR - while finding board b101 | {}
+28/07/2022, 9:54:11 - ERROR - Failed to get board | {}
+28/07/2022, 9:54:12 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: aL7Q7SRaPhyiI_z-AAAf]
+28/07/2022, 9:55:30 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:56:21 - INFO - New connected socket [id: xh7JMphV3ySZbERUAAAh]
+28/07/2022, 9:56:21 - ERROR - while finding board b101 | {}
+28/07/2022, 9:56:21 - ERROR - Failed to get board | {}
+28/07/2022, 9:56:21 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: xh7JMphV3ySZbERUAAAh]
+28/07/2022, 9:57:00 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 9:57:02 - INFO - New connected socket [id: 8kVtxLPlWYVuW6hqAAAj]
+28/07/2022, 9:57:02 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 8kVtxLPlWYVuW6hqAAAj]
+28/07/2022, 9:57:49 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:57:49 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:57:49 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 9:57:50 - INFO - A board from socket [id: R1_GLaWyJJkfVJw-AAAV], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 9:57:50 - INFO - Broadcasting event: board-updated
+28/07/2022, 9:57:50 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 10:00:56 - INFO - A task from socket [id: 8kVtxLPlWYVuW6hqAAAj], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 10:00:56 - INFO - Broadcasting event: task-updated
+28/07/2022, 10:00:56 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 10:01:21 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 10:01:24 - INFO - New connected socket [id: dLkn85KhyLa-FXGGAAAl]
+28/07/2022, 10:01:25 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: dLkn85KhyLa-FXGGAAAl]
+28/07/2022, 10:02:59 - INFO - A board from socket [id: dLkn85KhyLa-FXGGAAAl], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 10:02:59 - INFO - Broadcasting event: board-updated
+28/07/2022, 10:02:59 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 10:03:08 - INFO - A board from socket [id: dLkn85KhyLa-FXGGAAAl], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 10:03:08 - INFO - Broadcasting event: board-updated
+28/07/2022, 10:03:08 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 10:03:46 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 10:03:48 - INFO - New connected socket [id: e-ZqZHM_5DAOy_A1AAAn]
+28/07/2022, 10:03:49 - INFO - Setting socket.userId = 62dfb92ad5cc68790e947788 for socket [id: e-ZqZHM_5DAOy_A1AAAn]
+28/07/2022, 10:20:34 - DEBUG - auth.service - login with username: bar
+28/07/2022, 10:20:35 - INFO - User login:  | {"_id":"62e22fe4b530b64caf3c5d18","username":"bar","fullname":"Bar Bronshtein","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658990562/WhatsApp_Image_2022-04-29_at_13.56.57_pqykmx.jpg"}
+28/07/2022, 10:49:42 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 10:49:44 - INFO - New connected socket [id: rOaQeUkf9SEynuV7AAAp]
+28/07/2022, 10:49:45 - INFO - Setting socket.userId = 62dfb92ad5cc68790e947788 for socket [id: rOaQeUkf9SEynuV7AAAp]
+28/07/2022, 11:33:30 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 11:33:32 - INFO - New connected socket [id: pXM1OAUbC500x4V3AAAr]
+28/07/2022, 11:33:32 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: pXM1OAUbC500x4V3AAAr]
+28/07/2022, 11:39:00 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 11:40:24 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:24 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:24 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:26 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:26 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:26 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:33 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:33 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:35 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:35 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:35 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:35 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:35 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:35 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:38 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:38 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:38 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:38 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:38 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:42 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:42 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:42 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:40:43 - INFO - A board from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:40:43 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:40:43 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:02 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:02 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:02 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:03 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:03 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:03 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:05 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:05 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:05 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:06 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:06 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:06 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:10 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:10 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:10 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:21 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:21 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:21 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:29 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:29 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:29 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:32 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:32 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:32 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:33 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:33 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:33 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:36 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:36 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:36 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:41:43 - INFO - A task from socket [id: pXM1OAUbC500x4V3AAAr], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:41:43 - INFO - Broadcasting event: task-updated
+28/07/2022, 11:41:43 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 11:42:21 - INFO - New connected socket [id: QXqhiQp8V51KJOUNAAAt]
+28/07/2022, 11:42:22 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: QXqhiQp8V51KJOUNAAAt]
+28/07/2022, 11:42:28 - DEBUG - auth.service - login with username: banya
+28/07/2022, 11:42:28 - ERROR - Failed to Login Error: Invalid username or password
+28/07/2022, 11:42:44 - DEBUG - auth.service - login with username: bnaya
+28/07/2022, 11:42:44 - INFO - User login:  | {"_id":"62dfb92ad5cc68790e947788","username":"bnaya","fullname":"Bnaya Cohen","imgUrl":"http://res.cloudinary.com/donatello-cloud/image/upload/v1658829093/IMG_3404_umxc73.jpg"}
+28/07/2022, 11:43:21 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:21 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:21 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:27 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:27 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:27 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:27 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:27 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:27 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:34 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:34 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:34 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:34 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:34 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:34 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:41 - INFO - A board from socket [id: QXqhiQp8V51KJOUNAAAt], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 11:43:41 - INFO - Broadcasting event: board-updated
+28/07/2022, 11:43:41 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 11:43:48 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 11:52:59 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 11:53:02 - INFO - New connected socket [id: EZDUyFeovil7HteRAAAv]
+28/07/2022, 11:53:02 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: EZDUyFeovil7HteRAAAv]
+28/07/2022, 12:00:52 - INFO - A board from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:00:52 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:00:52 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:01:10 - INFO - A board from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:01:10 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:01:10 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:03:01 - INFO - A group from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:03:01 - INFO - Broadcasting event: group-updated
+28/07/2022, 12:03:01 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:10:05 - INFO - A board from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:10:05 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:10:06 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:17:09 - INFO - A board from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:17:09 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:17:09 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:17:09 - INFO - A board from socket [id: EZDUyFeovil7HteRAAAv], emitting to topic 62dd6e7b444331529fbf9dfb
+28/07/2022, 12:17:09 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:17:09 - INFO - Broadcast to room 62dd6e7b444331529fbf9dfb excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:21:18 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:21:19 - INFO - New connected socket [id: IdX06DwPQ9_hSlXYAAAx]
+28/07/2022, 12:21:20 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: IdX06DwPQ9_hSlXYAAAx]
+28/07/2022, 12:25:20 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:25:22 - INFO - New connected socket [id: NI6Ae4kBc4RTWdi9AAAz]
+28/07/2022, 12:25:22 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: NI6Ae4kBc4RTWdi9AAAz]
+28/07/2022, 12:25:33 - ERROR - Failed to update board | {}
+28/07/2022, 12:26:18 - ERROR - Failed to update board | {}
+28/07/2022, 12:26:20 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:26:22 - INFO - New connected socket [id: cM2Ji63jF5dw7LbQAAA1]
+28/07/2022, 12:26:22 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: cM2Ji63jF5dw7LbQAAA1]
+28/07/2022, 12:26:33 - ERROR - Failed to update board | {}
+28/07/2022, 12:33:03 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:33:05 - INFO - New connected socket [id: Rjad6JsJrYh8FdupAAA3]
+28/07/2022, 12:33:05 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: Rjad6JsJrYh8FdupAAA3]
+28/07/2022, 12:35:10 - ERROR - Failed to update board | {}
+28/07/2022, 12:35:10 - ERROR - while finding board EtIAY | {}
+28/07/2022, 12:35:10 - ERROR - Failed to get board | {}
+28/07/2022, 12:35:25 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:35:27 - INFO - New connected socket [id: W-9Z4CDhNEHHXIWCAAA5]
+28/07/2022, 12:35:27 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: W-9Z4CDhNEHHXIWCAAA5]
+28/07/2022, 12:42:04 - ERROR - Failed to update board | {}
+28/07/2022, 12:42:04 - ERROR - while finding board ADjwP | {}
+28/07/2022, 12:42:04 - ERROR - Failed to get board | {}
+28/07/2022, 12:42:17 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:42:20 - INFO - New connected socket [id: T6un3QXjHbV3Znw7AAA7]
+28/07/2022, 12:42:20 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: T6un3QXjHbV3Znw7AAA7]
+28/07/2022, 12:48:26 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:48:29 - INFO - New connected socket [id: aJAkaoPRy0w8td8cAAA9]
+28/07/2022, 12:48:29 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: aJAkaoPRy0w8td8cAAA9]
+28/07/2022, 12:50:02 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:50:05 - INFO - New connected socket [id: VXFSNqrcpGcocX7WAAA_]
+28/07/2022, 12:50:05 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: VXFSNqrcpGcocX7WAAA_]
+28/07/2022, 12:52:47 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:52:50 - INFO - New connected socket [id: f5HtKSe3sp7sCJW8AABB]
+28/07/2022, 12:52:50 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: f5HtKSe3sp7sCJW8AABB]
+28/07/2022, 12:52:55 - ERROR - while finding board undefined | {}
+28/07/2022, 12:52:55 - ERROR - Failed to get board | {}
+28/07/2022, 12:54:17 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:54:20 - INFO - New connected socket [id: MOaBYW00IzLuid4uAABD]
+28/07/2022, 12:54:21 - ERROR - while finding board undefined | {}
+28/07/2022, 12:54:21 - ERROR - Failed to get board | {}
+28/07/2022, 12:54:21 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: MOaBYW00IzLuid4uAABD]
+28/07/2022, 12:55:06 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:55:08 - INFO - New connected socket [id: H_qRUS0o_efH1rbYAABF]
+28/07/2022, 12:55:08 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: H_qRUS0o_efH1rbYAABF]
+28/07/2022, 12:55:32 - ERROR - while finding board undefined | {}
+28/07/2022, 12:55:32 - ERROR - Failed to get board | {}
+28/07/2022, 12:55:48 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:55:50 - INFO - New connected socket [id: zaf-Nh4TIa93GzjaAABH]
+28/07/2022, 12:55:50 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: zaf-Nh4TIa93GzjaAABH]
+28/07/2022, 12:57:28 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:57:30 - INFO - New connected socket [id: LfASwYr9hbVOBJGsAABJ]
+28/07/2022, 12:57:31 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: LfASwYr9hbVOBJGsAABJ]
+28/07/2022, 12:57:32 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:57:35 - INFO - New connected socket [id: iGZuMdoc8aEKdY9dAABL]
+28/07/2022, 12:57:35 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:57:37 - INFO - New connected socket [id: RCvQFQHda63qS189AABN]
+28/07/2022, 12:57:38 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: RCvQFQHda63qS189AABN]
+28/07/2022, 12:57:46 - ERROR - while finding board undefined | {}
+28/07/2022, 12:57:46 - ERROR - Failed to get board | {}
+28/07/2022, 12:58:06 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:58:08 - INFO - New connected socket [id: ympuoyGshWKomHy1AABP]
+28/07/2022, 12:58:08 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: ympuoyGshWKomHy1AABP]
+28/07/2022, 12:58:28 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 12:58:29 - INFO - New connected socket [id: jBBHzwgHSp4qm_1WAABR]
+28/07/2022, 12:58:29 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: jBBHzwgHSp4qm_1WAABR]
+28/07/2022, 12:58:39 - INFO - A group from socket [id: jBBHzwgHSp4qm_1WAABR], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 12:58:39 - INFO - Broadcasting event: group-updated
+28/07/2022, 12:58:39 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:58:45 - INFO - A task from socket [id: jBBHzwgHSp4qm_1WAABR], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 12:58:45 - INFO - Broadcasting event: task-updated
+28/07/2022, 12:58:45 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:58:53 - INFO - A group from socket [id: jBBHzwgHSp4qm_1WAABR], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 12:58:53 - INFO - Broadcasting event: group-updated
+28/07/2022, 12:58:53 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:58:56 - INFO - A board from socket [id: jBBHzwgHSp4qm_1WAABR], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 12:58:56 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:58:56 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 12:58:56 - INFO - A board from socket [id: jBBHzwgHSp4qm_1WAABR], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 12:58:56 - INFO - Broadcasting event: board-updated
+28/07/2022, 12:58:56 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62e22fe4b530b64caf3c5d18
+28/07/2022, 13:01:12 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 13:01:21 - INFO - New connected socket [id: 1gRy8WxXpxb54OiFAABT]
+28/07/2022, 13:01:21 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: 1gRy8WxXpxb54OiFAABT]
+28/07/2022, 13:02:10 - ERROR - while finding board undefined | {}
+28/07/2022, 13:02:10 - ERROR - Failed to get board | {}
+28/07/2022, 13:03:00 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 13:03:03 - INFO - New connected socket [id: EnJ_trt8GZlbGGprAABV]
+28/07/2022, 13:03:04 - ERROR - while finding board undefined | {}
+28/07/2022, 13:03:04 - ERROR - Failed to get board | {}
+28/07/2022, 13:03:04 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: EnJ_trt8GZlbGGprAABV]
+28/07/2022, 13:03:25 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 13:03:28 - INFO - New connected socket [id: llOTThlguHH-U46bAABX]
+28/07/2022, 13:03:28 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: llOTThlguHH-U46bAABX]
+28/07/2022, 13:03:44 - ERROR - while finding board undefined | {}
+28/07/2022, 13:03:44 - ERROR - Failed to get board | {}
+28/07/2022, 13:04:23 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 13:04:27 - ERROR - while finding board undefined | {}
+28/07/2022, 13:04:27 - ERROR - Failed to get board | {}
+28/07/2022, 13:04:27 - INFO - New connected socket [id: tl7HnagcGIOj8s_LAABZ]
+28/07/2022, 13:04:27 - INFO - Setting socket.userId = 62e22fe4b530b64caf3c5d18 for socket [id: tl7HnagcGIOj8s_LAABZ]
+28/07/2022, 13:08:10 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 13:08:28 - INFO - New connected socket [id: U2ZPni986nuOJLmUAABb]
+28/07/2022, 13:08:28 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: U2ZPni986nuOJLmUAABb]
+28/07/2022, 14:12:28 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:12:31 - INFO - New connected socket [id: VKT1wT1swxTsxfkEAABd]
+28/07/2022, 14:12:32 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: VKT1wT1swxTsxfkEAABd]
+28/07/2022, 14:16:54 - INFO - Server is running on port: 3030
+28/07/2022, 14:17:25 - INFO - New connected socket [id: h6qvAlvQpRGqLQS3AAAB]
+28/07/2022, 14:17:26 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: h6qvAlvQpRGqLQS3AAAB]
+28/07/2022, 14:18:53 - ERROR - while finding board [object Object] | {}
+28/07/2022, 14:18:53 - ERROR - Failed to get board | {}
+28/07/2022, 14:19:25 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:19:27 - INFO - New connected socket [id: hqn1xif5oiktNUxlAAAD]
+28/07/2022, 14:19:27 - ERROR - while finding board [object Object] | {}
+28/07/2022, 14:19:27 - ERROR - Failed to get board | {}
+28/07/2022, 14:19:27 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: hqn1xif5oiktNUxlAAAD]
+28/07/2022, 14:19:35 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:19:37 - INFO - New connected socket [id: b9Npi7OTgu2J8sF2AAAF]
+28/07/2022, 14:19:37 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: b9Npi7OTgu2J8sF2AAAF]
+28/07/2022, 14:23:23 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:23:25 - INFO - New connected socket [id: iaco7BzjgixYmjeuAAAH]
+28/07/2022, 14:23:25 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: iaco7BzjgixYmjeuAAAH]
+28/07/2022, 14:24:25 - INFO - A board from socket [id: iaco7BzjgixYmjeuAAAH], emitting to topic 62e270ce685738619516b6d5
+28/07/2022, 14:24:25 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:24:25 - INFO - Broadcast to room 62e270ce685738619516b6d5 excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:33:32 - INFO - Socket is leaving topic 62e270ce685738619516b6d5 [id: iaco7BzjgixYmjeuAAAH]
+28/07/2022, 14:36:42 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:36:47 - INFO - New connected socket [id: CwVqzXhOXXanZ1jYAAAJ]
+28/07/2022, 14:36:48 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: CwVqzXhOXXanZ1jYAAAJ]
+28/07/2022, 14:39:55 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:39:58 - INFO - New connected socket [id: Aoq4ng0yYCa5xdstAAAL]
+28/07/2022, 14:39:58 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: Aoq4ng0yYCa5xdstAAAL]
+28/07/2022, 14:40:41 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:40:43 - INFO - New connected socket [id: CHvVKMYhP-XzaOO4AAAN]
+28/07/2022, 14:40:43 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: CHvVKMYhP-XzaOO4AAAN]
+28/07/2022, 14:41:17 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:41:19 - INFO - New connected socket [id: 7AH9MGabiv6irzyjAAAP]
+28/07/2022, 14:41:19 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 7AH9MGabiv6irzyjAAAP]
+28/07/2022, 14:41:38 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:41:40 - INFO - New connected socket [id: xAfVF981YfNL4XN8AAAR]
+28/07/2022, 14:41:40 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: xAfVF981YfNL4XN8AAAR]
+28/07/2022, 14:42:59 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:43:01 - INFO - New connected socket [id: 2t56E6xqLuXJlTMjAAAT]
+28/07/2022, 14:43:01 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: 2t56E6xqLuXJlTMjAAAT]
+28/07/2022, 14:43:14 - INFO - A board from socket [id: 2t56E6xqLuXJlTMjAAAT], emitting to topic 62e25d9ab530b64caf3c5d1b
+28/07/2022, 14:43:14 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:43:14 - INFO - Broadcast to room 62e25d9ab530b64caf3c5d1b excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:46:35 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:46:37 - INFO - New connected socket [id: AsCCMsVqHM3eKxs9AAAV]
+28/07/2022, 14:46:37 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: AsCCMsVqHM3eKxs9AAAV]
+28/07/2022, 14:52:16 - INFO - Socket disconnected [id: undefined]
+28/07/2022, 14:52:18 - INFO - New connected socket [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:52:18 - INFO - Setting socket.userId = 62de4d3609b63fc45f8e3541 for socket [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:52:35 - INFO - A board from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e2709c685738619516b6d4
+28/07/2022, 14:52:35 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:52:35 - INFO - Broadcast to room 62e2709c685738619516b6d4 excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:52:50 - INFO - A board from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e2709c685738619516b6d4
+28/07/2022, 14:52:50 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:52:50 - INFO - Broadcast to room 62e2709c685738619516b6d4 excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:53:08 - INFO - Socket is leaving topic 62e2709c685738619516b6d4 [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:53:24 - INFO - A board from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e25f00b530b64caf3c5d1d
+28/07/2022, 14:53:24 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:53:24 - INFO - Broadcast to room 62e25f00b530b64caf3c5d1d excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:53:43 - INFO - Socket is leaving topic 62e25f00b530b64caf3c5d1d [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:53:55 - INFO - A board from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e25ea2b530b64caf3c5d1c
+28/07/2022, 14:53:55 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:53:55 - INFO - Broadcast to room 62e25ea2b530b64caf3c5d1c excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:54:01 - INFO - A board from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e25ea2b530b64caf3c5d1c
+28/07/2022, 14:54:01 - INFO - Broadcasting event: board-updated
+28/07/2022, 14:54:01 - INFO - Broadcast to room 62e25ea2b530b64caf3c5d1c excluding user: 62de4d3609b63fc45f8e3541
+28/07/2022, 14:54:15 - INFO - Socket is leaving topic 62e25ea2b530b64caf3c5d1c [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:54:18 - INFO - Socket is leaving topic 62e25f00b530b64caf3c5d1d [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:54:20 - INFO - Socket is leaving topic 62e2709c685738619516b6d4 [id: nMBquyJajim19UpHAAAX]
+28/07/2022, 14:54:38 - INFO - A group from socket [id: nMBquyJajim19UpHAAAX], emitting to topic 62e270ce685738619516b6d5
+28/07/2022, 14:54:38 - INFO - Broadcasting event: group-updated
+28/07/2022, 14:54:38 - INFO - Broadcast to room 62e270ce685738619516b6d5 excluding user: 62de4d3609b63fc45f8e3541

@@ -4,25 +4,9 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy) {
   try {
-    // const criteria = _buildCriteria(filterBy)
+    const criteria = _buildCriteria(JSON.parse(filterBy))
     const collection = await dbService.getCollection('board')
-    // if (criteria.sort.by) {
-    //   let sortCriteria
-    //   const { direction } = criteria.sort
-    //   switch (criteria.sort.by) {
-    //     case 'name':
-    //       sortCriteria = { name: direction }
-    //       break
-    //     case 'price':
-    //       sortCriteria = { price: direction }
-    //       break
-    //     case 'created':
-    //       sortCriteria = { createdAt: direction }
-    //       break
-      // }
-      // boards = await collection.find(criteria.filter).sort(sortCriteria).toArray()
-    // } else boards = await collection.find(criteria.filter).toArray()
-    return collection.find({}).toArray()
+    return collection.find(criteria).toArray()
   } catch (err) {
     logger.error('cannot find boards', err)
     throw err
@@ -97,24 +81,13 @@ module.exports = {
 
 function _buildCriteria(
   filterBy = {
-    txt: '',
-    status: true,
-    sort: {
-      by: '',
-      direction: 1,
-    },
+    txt: ''
   }
 ) {
-  const criteria = { filter: {}, sort: {} }
-  if (filterBy.status !== undefined) criteria.filter.inStock = JSON.parse(filterBy.status)
+  const criteria = {}
   if (filterBy.txt) {
     var regex = new RegExp(filterBy.txt, 'i')
-    criteria.filter.name = { $regex: regex }
-  }
-  filterBy.sort = JSON.parse(filterBy.sort)
-  if (filterBy.sort.by) {
-    criteria.sort.by = filterBy.sort.by
-    criteria.sort.direction = -filterBy.sort.direction
+    criteria.title = { $regex: regex }
   }
   return criteria
 }

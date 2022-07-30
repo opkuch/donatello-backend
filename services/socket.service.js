@@ -23,24 +23,6 @@ function setupSocketAPI(http) {
             msgs[topic] = []
             socket.myTopic = topic
         })
-        socket.on('update-task', task => {
-            logger.info(`A task from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            broadcast({
-                type: 'task-updated',
-                data: { task, memberId: socket.userId },
-                room: socket.myTopic,
-                userId: socket.userId
-            })
-        })
-        socket.on('update-group', group => {
-            logger.info(`A group from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            broadcast({
-                type: 'group-updated',
-                data: { group, memberId: socket.userId },
-                room: socket.myTopic,
-                userId: socket.userId
-            })
-        })
         socket.on('update-board', board => {
             logger.info(`A board from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
             broadcast({

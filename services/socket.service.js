@@ -1,7 +1,6 @@
 const logger = require('./logger.service')
 
 var gIo = null
-const msgs = {}
 function setupSocketAPI(http) {
     gIo = require('socket.io')(http, {
         cors: {
@@ -20,7 +19,6 @@ function setupSocketAPI(http) {
                 logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
             socket.join(topic)
-            msgs[topic] = []
             socket.myTopic = topic
         })
         socket.on('update-board', board => {

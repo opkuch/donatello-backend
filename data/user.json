@@ -1,12 +1,98 @@
-{
-    "_id": "u101",
-    "fullname": "Guest",
-    "username": "guest",
-    "password": "guest",
-    "imgUrl": "https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png",
-    "mentions": [{
-        "id": "m101",
-        "boardId": "62dd6e7b444331529fbf9dfb",
-        "taskId": "L97sv"
-    }]
-}
+[
+    {
+      "_id":{"$oid": "62e25a33b387d3221f480ebc"},
+      "username": "nadav",
+      "password": "$2b$10$3xEFRRWwHVhZTyno1GIfoufNXwl0OOKJ5cqJ2zzQfNmpc6yWrdyFe",
+      "fullname": "Nadav Ben-Hur",
+      "imgUrl": "http://res.cloudinary.com/donatello-cloud/image/upload/v1659001393/556721_3736951076153_141936854_n_n5upkz.jpg",
+      "createdAt": "2022-07-28T09:43:15.000Z"
+    },
+    {
+      "_id":{"$oid": "62e2a748e1984a87f455ea21"},
+      "username": "bnaya",
+      "password": "$2b$10$IayWWmf.CEBw.g67Il4.ieYdOPCDR/htkz66SLGn17o3ohmCtrTl.",
+      "fullname": "Bnaya cohen",
+      "imgUrl": "http://res.cloudinary.com/donatello-cloud/image/upload/v1659021122/IMG_3404_lzbiqc.jpg",
+      "createdAt": "2022-07-28T15:12:08.000Z"
+    },
+    {
+      "_id":{"$oid": "62e456e257b33f0b273e0b48"},
+      "username": "jes12",
+      "password": "$2b$10$JsUyiqJDet4Wv8IH9zJPceub2610hwgvo4f3pon191yIGni3/O8QG",
+      "fullname": "Jasmine Norman",
+      "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "createdAt": "2022-07-29T21:53:38.000Z"
+    },
+    {
+      "_id":{"$oid": "62e559824958611981969eee"},
+      "username": "shani",
+      "password": "$2b$10$kmTMhMSqwHAQnSKpUqOaWO.VoZxGPhb0uO5DJO8e2XnZC.WE8BOlq",
+      "fullname": "Shani Aharon",
+      "imgUrl": "https://ca.slack-edge.com/T035GULFZRD-U03B1FDDALQ-fb531338783f-512",
+      "createdAt": "2022-07-30T16:17:06.000Z"
+    },
+    {
+      "_id":{"$oid": "62e559cf4958611981969eef"},
+      "username": "Barry",
+      "password": "$2b$10$H4poabkZhjTsERucDSgqGeBcsv/DmMJC/l/35yLwoY0rTIWYK45k.",
+      "fullname": "Bar Bronsthein",
+      "imgUrl": "https://avatars.githubusercontent.com/u/97507642?s=400&u=b98ba078731ece6a7ff8c9e3aafc29dfed49029a&v=4",
+      "createdAt": "2022-07-30T16:18:23.000Z"
+    },
+    {
+      "_id":{"$oid": "62e559f84958611981969ef0"},
+      "username": "lior",
+      "password": "$2b$10$UoaGQIKBsI.ST3qDWfbjqu8YLaDPFaybyc6Ck61xJkVdSFN2jtzAG",
+      "fullname": "Lior Amar",
+      "imgUrl": "https://ca.slack-edge.com/T035GULFZRD-U03DX9H341E-814a107bdcfe-512",
+      "createdAt": "2022-07-30T16:19:04.000Z"
+    },
+    {
+      "_id":{"$oid": "62e55a914958611981969ef1"},
+      "username": "sam",
+      "password": "$2b$10$EBKiMZY4bkylqIdIOmKdmuKBF1uSeDOKGSee9Ds/fD5Zk4fYvxv4.",
+      "fullname": "Sam Adams",
+      "imgUrl": "http://res.cloudinary.com/donatello-cloud/image/upload/v1659198091/person1_dtebkt.jpg",
+      "createdAt": "2022-07-30T16:21:37.000Z"
+    },
+    {
+      "_id":{"$oid": "62e55ae14958611981969ef2"},
+      "username": "Julius",
+      "password": "$2b$10$klCDHIMnzWi7..FtKNCVV./ac20/yrt6sX.3qFogYPYmfgxpOb8L6",
+      "fullname": "Sara",
+      "imgUrl": "http://res.cloudinary.com/donatello-cloud/image/upload/v1659198175/person2_johpft.jpg",
+      "createdAt": "2022-07-30T16:22:57.000Z"
+    },
+    {
+      "_id":{"$oid": "62e55b014958611981969ef3"},
+      "username": "Itzhakov",
+      "password": "$2b$10$CD0.uvpvbILVAQWSE9L2peJpnTW93D7koqeE1riCpeKW2pbYMDEgK",
+      "fullname": "Omer",
+      "imgUrl": "http://res.cloudinary.com/donatello-cloud/image/upload/v1659198208/person3_jvbxy6.jpg",
+      "createdAt": "2022-07-30T16:23:29.000Z"
+    },
+    {
+      "_id":{"$oid": "62e55b384958611981969ef4"},
+      "username": "tobi",
+      "password": "$2b$10$v8SDMrbxHHIeIUCR4jkwhuKiTJNSIXANxzr6g7Cy40cLud092auly",
+      "fullname": "Tobey Maguire",
+      "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8aL--nXG15st6MG-nAXulnYh0tAOg4qgNfhYhF8UOFxpMoLNX",
+      "createdAt": "2022-07-30T16:24:24.000Z"
+    },
+    {
+      "_id":{"$oid": "62e55ecf4958611981969ef5"},
+      "username": "tal",
+      "password": "$2b$10$gCVX63B5AUFEiSIoqcG5hO/0OTds09OncdpB9jmwPSSO8BYR9KApe",
+      "fullname": "Tal Amit",
+      "imgUrl": "https://ca.slack-edge.com/T035GULFZRD-U03D7GH63TL-f539888b0745-72",
+      "createdAt": "2022-07-30T16:39:43.000Z"
+    },
+    {
+      "_id":{"$oid": "636b74cb286c0a50fb981553"},
+      "username": "ploni",
+      "password": "$2b$10$8Twwd2hikqnA4QaA4hKPc.RL82SXhSa5e8g9crDaaZiVsoORYEHZS",
+      "fullname": "almoni",
+      "imgUrl": "https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-1024.png",
+      "createdAt": "2022-11-09T09:37:15.000Z"
+    }
+  ]

@@ -15,6 +15,7 @@ if (process.env.NODE_ENV === 'production') {
     // Express serve static files on production environment
     app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
+    require('dotenv').config();
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
